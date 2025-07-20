@@ -1,349 +1,715 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Dash Board]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Dash Board</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 16 Jul 2025 04:41:43 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 16 Jul 2025 04:41:35 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[_看板-金融100词]]></title><description><![CDATA[ 
- 🎯 最终目标 (The Project)1<a aria-label="更多选项" class="kanban-plugin__lane-settings-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a><a data-href="_main-金融100词" href="知识/fin/ow/_main-金融100词.html" class="internal-link" target="_self" rel="noopener nofollow">_main-金融100词</a><a data-ignore-drag="true" aria-label="更多选项" class="kanban-plugin__item-postfix-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>+ 添加卡片❓ 核心问题 (Core Questions)12<a aria-label="更多选项" class="kanban-plugin__lane-settings-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>货币时间价值 (Time Value of Money, TVM)<a data-ignore-drag="true" aria-label="更多选项" class="kanban-plugin__item-postfix-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>现值 (Present Value, PV)<a data-ignore-drag="true" aria-label="更多选项" class="kanban-plugin__item-postfix-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>终值 (Future Value, FV)<a data-ignore-drag="true" aria-label="更多选项" class="kanban-plugin__item-postfix-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>折现 (Discounting)<a data-ignore-drag="true" aria-label="更多选项" class="kanban-plugin__item-postfix-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>复利 (Compounding)<a data-ignore-drag="true" aria-label="更多选项" class="kanban-plugin__item-postfix-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>折现率 (Discount Rate)<a data-ignore-drag="true" aria-label="更多选项" class="kanban-plugin__item-postfix-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>风险与回报 (Risk and Return)<a data-ignore-drag="true" aria-label="更多选项" class="kanban-plugin__item-postfix-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>期望回报率 (Expected Return)<a data-ignore-drag="true" aria-label="更多选项" class="kanban-plugin__item-postfix-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>标准差 (Standard Deviation)<a data-ignore-drag="true" aria-label="更多选项" class="kanban-plugin__item-postfix-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>风险规避 (Risk Aversion)<a data-ignore-drag="true" aria-label="更多选项" class="kanban-plugin__item-postfix-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>无风险利率 (Risk-free Rate, Rf)<a data-ignore-drag="true" aria-label="更多选项" class="kanban-plugin__item-postfix-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>风险溢价 (Risk Premium)<a data-ignore-drag="true" aria-label="更多选项" class="kanban-plugin__item-postfix-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>+ 添加卡片🔬 主动探索 (Active Research)1<a aria-label="更多选项" class="kanban-plugin__lane-settings-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>风险 (Risk)<a data-ignore-drag="true" aria-label="更多选项" class="kanban-plugin__item-postfix-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>+ 添加卡片🧠 知识内化 (Internalization)2<a aria-label="更多选项" class="kanban-plugin__lane-settings-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a><a data-href="100词" href="知识/fin/ow/100词.html" class="internal-link" target="_self" rel="noopener nofollow">100词</a><a data-ignore-drag="true" aria-label="更多选项" class="kanban-plugin__item-postfix-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a><a data-href="价值" href="知识/fin/ow/价值.html" class="internal-link" target="_self" rel="noopener nofollow">价值</a> ✅ 2025-07-13<a data-ignore-drag="true" aria-label="更多选项" class="kanban-plugin__item-postfix-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>+ 添加卡片🛠️ 动手实践 (Hands-on Practice)0<a aria-label="更多选项" class="kanban-plugin__lane-settings-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>+ 添加卡片✅ 问题解决 (Problem Solved)0<a aria-label="更多选项" class="kanban-plugin__lane-settings-button clickable-icon"><span data-icon="lucide-more-vertical" class="kanban-plugin__icon "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical"><circle cx="12" cy="12" r="1"></circle><circle cx="12" cy="5" r="1"></circle><circle cx="12" cy="19" r="1"></circle></svg></span></a>+ 添加卡片]]></description><link>知识/fin/ow/_看板-金融100词.html</link><guid isPermaLink="false">知识/fin/ow/_看板-金融100词.md</guid><pubDate>Mon, 14 Jul 2025 01:55:08 GMT</pubDate></item><item><title><![CDATA[_main-金融100词]]></title><description><![CDATA[<a class="tag" href="?query=tag:p-fin/ow" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#p-fin/ow</a> <a class="tag" href="?query=tag:main" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#main</a> 
- <br>项目目标<br><a href=".?query=tag:p-fin/ow" class="tag" target="_blank" rel="noopener nofollow">#p-fin/ow</a> <a href=".?query=tag:main" class="tag" target="_blank" rel="noopener nofollow">#main</a><br>
-为了对金融领域有一个基础的了解<br><br><br>本项目学习过程中，所有被内化的“卡片笔记”将自动聚合于此。<br>]]></description><link>知识/fin/ow/_main-金融100词.html</link><guid isPermaLink="false">知识/fin/ow/_main-金融100词.md</guid><pubDate>Mon, 07 Jul 2025 03:40:04 GMT</pubDate></item><item><title><![CDATA[100词]]></title><description><![CDATA[ 
- <br>2025-07-07 09:59<br><br>缘起问题 (The Originating Question)
-这个知识点，是为了回答看板上的哪个核心问题而诞生的？
-<br><a data-href="_看板-金融100词" href="知识/fin/ow/_看板-金融100词.html" class="internal-link" target="_self" rel="noopener nofollow">_看板-金融100词</a><br><br>探索摘要 (Research Summary)
-在寻找答案的过程中，你发现了哪些关键的资料、数据或观点？（可以放链接）
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Dash Board]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Dash Board</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 20 Jul 2025 03:12:13 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 20 Jul 2025 03:12:11 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[2025股市概览]]></title><description><![CDATA[ 
+ <br><br><br><br>此处给出选举新闻以及恐慌和情绪指数，论述情绪在股市中的体现<br>
+<br>盘前选股策略
+<br>日内
+<br><br><br><br>我们大致的一个叙事逻辑是基本面分析和技术分析的对比。然后我的同事们会负责完成基本面的知识介绍和案例分析，技术面的知识介绍， 到我这部分就是技术面的经验分享。然后我是打算讲一下去年（2024）年的股市概括，因为我觉得去年的股市由于政治新闻等因素冲击，更多的是受情绪与恐慌影响，故而技术分析比基本面分析更好。接下来就分享我的交易策略。我的交易策略是每天筛选夜盘或盘前交易量高的，这部分股票有很明显的可以用技术分析的特征（这应该有个专有名词吧）。于是就可以根据macd rsi 量比 形态 支撑等内容来做分析。然后我始终遵循日进日出的交易策略，为自己设定合理的止损和止盈并严格遵守，无论多赚多少都不管，触发止损一定卖出离场。当天买一定当天卖掉不要过夜。然后后来我没有遵守交易纪律，看好一个刚刚有业务被并购的公司并准备长期持有，然后一直阴跌。体现出交易纪律的重要性。<br><br>
+<br>
+核心论点：2024年技术分析 &gt; 基本面分析
+
+<br>逻辑： 这个论点是整个分享的基石。你的理由是“政治新闻等因素冲击，市场更多受情绪与恐慌影响”。这个逻辑是成立的。在由新闻和情绪驱动的短期行情中，价格波动确实会暂时脱离公司的基本面价值，这正是技术分析发挥作用的舞台。<br>
+
+<br>潜在风险/建议： 这不是一个“事实错误”，但它是一个带有主观判断的强观点。为了让它更严谨，无懈可击，我建议你这样表述：“在2024年这样一个充满宏观不确定性和情绪波动的市场环境下，对于短线交易者而言，技术分析提供了一个比基本面分析更敏锐、更具时效性的决策框架。” 这样说，你既强调了它的适用范围（短线交易），也精确描述了它的优势（敏锐、时效性），而不是简单地说“更好”，这会显得非常专业。<br>
+
+
+
+<br>
+交易策略：筛选高交易量股票 -&gt; 技术指标分析 -&gt; 日内交易
+
+<br>逻辑： 这个流程非常经典，是典型的动量日内交易（Momentum Day Trading）策略。逻辑链条很清晰：寻找市场热点（高交易量） -&gt; 运用工具分析入场点（技术指标） -&gt; 严格风控了结（日内+止盈止损）。这是完全说得通的。<br>
+
+<br>事实确认： 你问“这部分股票有很明显的可以用技术分析的特征（这应该有个专有名词吧）”。你说得没错，这确实有专门的说法。这类股票通常被称为：
+
+<br>"In-Play Stocks"（热点股/活跃股）：这是最常见的说法，指那些因为新闻、财报、行业动态等原因，在当天成为市场交易焦点的股票。<br>
+
+<br>"Gappers"（跳空股）：如果这些股票的盘前高交易量导致其开盘价显著高于或低于前一天的收盘价，就形成了“跳空缺口”（Gap），这类股票也叫 Gappers。<br>
+
+<br>"High Relative Volume (RVOL) Stocks"（高相对成交量股票）：一个更量化的说法，指当天的成交量远高于其平均成交量的股票。 你可以分享时说：“我的策略核心是寻找那些‘In-Play’的股票，也就是市场上的热点股，它们通常具有很高的相对成交量（RVOL）。” 这样会显得你对这个领域非常熟悉。<br>
+
+
+
+
+
+<br>
+案例：纪律的重要性
+
+<br>逻辑： 用一个自己“没有遵守纪律”导致亏损的真实案例，来反衬遵守纪律的重要性，这是最有力、最能引起听众共鸣的教学方式。从“我如何成功”转向“我如何失败”，非常真诚，也让你的整个分享更有深度。这个逻辑是满分。<br>
+
+<br>事实确认： 并购题材的股票，在消息公布后，如果市场反应不及预期，确实很容易出现“sell the news”（卖出新闻）的行情，导致股价持续阴跌。你描述的这个情况在现实中非常普遍，不是事实谬误。<br>
+
+
+
+<br><br>你的分享大纲已经非常出色了，逻辑严密，叙事引人入胜，并且没有明显的“事实错误”，更多的是一些可以打磨得更精准的“观点表述”。<br>第一步（大纲审核）我们基本完成了。 我的反馈总结如下：<br>
+<br>整体结构：优秀。从宏观到微观，从理论到实践，再到个人反思，一气呵成。<br>
+
+<br>核心观点：逻辑成立，但建议将“TA比FA更好”的表述精炼为“在特定市场环境下，对特定交易风格而言，TA更具时效性”。<br>
+
+<br>专业术语：你可以自信地使用 "In-Play Stocks", "Gappers", "RVOL" 等术语来描述你筛选的股票。<br>
+
+<br>案例分析：用个人失败案例强调纪律，是整个分享的点睛之笔，非常棒。
+Hint
+故事要突出交易纪律及风险管理等特点，强调纪律的重要性
+
+
+<br><img alt="Pasted image 20250716212511.png" src="文件/2025-07广发/_资源/pasted-image-20250716212511.png"><br>
+![[841752649565_.pic.jpg]】]]></description><link>文件/2025-07广发/_资源/股市故事脉络.html</link><guid isPermaLink="false">文件/2025-07广发/_资源/股市故事脉络.md</guid><pubDate>Wed, 16 Jul 2025 14:28:11 GMT</pubDate><enclosure url="文件/2025-07广发/_资源/pasted-image-20250716212511.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;文件/2025-07广发/_资源/pasted-image-20250716212511.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[ppt]]></title><description><![CDATA[ 
+ <br><br><br><br>幻灯片 1：标题页<br>
+<br>主标题： 驾驭市场情绪：一个技术分析交易框架<br>
+
+<br>副标题： 暨2024年市场环境复盘与实战分享<br>
+
+<br>分享人： [你的名字]<br>
+
+<br>视觉元素： 简洁的背景，可以使用带有抽象K线或股市数据流的底纹。<br>
+
+<br>幻灯片 2：开场 - 两种分析维度的对比<br>
+<br>标题： 我们如何理解市场？<br>
+
+<br>视觉元素： 页面一分为二，形成视觉对比。
+
+<br>左侧区域：
+
+<br>图标：[公司财报的图标]<br>
+
+<br>标题：基本面分析 (FA)<br>
+
+<br>关键词：价值 长期 “买什么” (Why)<br>
+
+
+
+<br>右侧区域：
+
+<br>图标：[K线图的图标]<br>
+
+<br>标题：技术分析 (TA)<br>
+
+<br>关键词：时机 情绪 “何时买卖” (When)<br>
+
+
+
+
+
+<br>幻灯片 3：论据1 - 2024：一个由“情绪”主导的市场<br>
+<br>标题： 为什么现在更需要技术分析？<br>
+
+<br>视觉元素：
+
+<br>主图： 纳斯达克或标普500指数在2024年的日K线走势图。<br>
+
+<br>标注： 在图表上，用箭头和文字标注出几次由“非基本面”因素导致市场剧烈波动的时点。
+
+<br>标注1： [XX地缘政治事件爆发]<br>
+
+<br>标注2： [美联储意外鹰派发言]<br>
+
+<br>标注3： [XX科技法案通过]<br>
+
+
+
+<br>副图 (可选): 在主图旁放一张同期的VIX恐慌指数图，展示市场情绪的剧烈波动。<br>
+
+
+
+<br>幻灯片 4：技术分析的核心假设<br>
+<br>标题： 技术分析的基石<br>
+
+<br>视觉元素： 一个清晰的流程图。
+
+<br>流程图：(所有信息：财报、新闻、内幕...) → (所有参与者的情绪与决策) → (买卖行为) → 价格与成交量<br>
+
+<br>核心结论 (图下方大字): 价格行为包容和消化一切信息 (Price Action Discounts Everything)<br>
+
+
+
+<br>幻灯片 5：我的交易系统 - 三步决策漏斗 (概览)<br>
+<br>标题： 我的交易系统：一个三步决策漏斗<br>
+
+<br>视觉元素： 一个简洁、清晰的漏斗图。
+
+<br>漏斗顶层 (最宽): 宏观扫描 (Macro Scan) - 寻找战场<br>
+
+<br>漏斗中层: 盘前分析 (Pre-Market Analysis) - 锁定目标<br>
+
+<br>漏斗底层 (最窄): “信号共振”入场 (Entry Trigger) - 精准开火<br>
+
+
+
+<br>幻灯片 6：论据2 - 交易系统实战图解 (入场前)<br>
+<br>标题： 步骤1 &amp; 2：寻找并锁定目标<br>
+
+<br>视觉元素： 展示一个真实的图表案例（用您熟悉的股票走势图）。
+
+<br>图表1 (左侧，日K线图): 展示一个处于健康上升趋势的日线形态。标题：“宏观扫描：确认趋势健康”。<br>
+
+<br>图表2 (右侧，盘前分时图): 展示一个“放量拉升后有回调承接”的健康盘前走势。标题：“盘前分析：确认多头意愿”。<br>
+
+
+
+<br>幻灯片 7：论据3 - “信号共振”入场模型 (核心)<br>
+<br>标题： 步骤3：寻找“信号共振”的入场点<br>
+
+<br>视觉元素： 这是您最重要的技术图。用一张放大的5分钟K线图，上面有清晰的数字标注。
+
+<br>标注 (1): 用箭头指向成交量区域一个突然出现的巨大“量柱”。文字标注：1. 成交量“点火”。<br>
+
+<br>标注 (2): 用横线画出关键的阻力位，并用箭头展示价格K线强势突破该阻力线。文字标注：2. 价格“突破”。<br>
+
+<br>标注 (3): 用圆圈圈出MACD指标区，展示DIF线正从DEA线下方即将上穿的形态。文字标注：3. MACD“预期”。<br>
+
+
+
+<br>幻灯片 8：论据4 - 风控核心：回本的数学<br>
+<br>标题： 我的风控核心：驾驭“回本数学”<br>
+
+<br>视觉元素： 一个简单但极具视觉冲击力的表格。 | 你的亏损 | 回本所需盈利 | | :--- | :--- | | -10% | +11% | | -20% | +25% | | -30% | +43% | | -50% | +100% ! |<br>
+
+<br>结论 (表格下方): 保住本金，永远是第一原则。<br>
+
+<br>幻灯片 9：案例复盘 (成功阶段)<br>
+<br>标题： 案例复盘：一次系统内的成功交易<br>
+
+<br>视觉元素： 您医药并购股当天的分时走势图。
+
+<br>在图上清晰标注出您的“入场点”（符合“信号共振”模型）。<br>
+
+<br>在收盘时的高点附近，用绿色方框圈出，并用文字标注：“当日浮动盈利接近30%，系统有效”。<br>
+
+
+
+<br>幻灯片 10：论据5 - 案例复盘 (失败阶段)<br>
+<br>标题： 案例复盘：一次致命的策略偏离<br>
+
+<br>视觉元素： 同一只股票，但时间轴拉长到后面几周的日K线图。
+
+<br>在您决定持仓过夜的位置，打上一个巨大的红色叉号 (X)，旁边标注“策略偏离点：从交易者转变为投资者”。<br>
+
+<br>用一条清晰的下降趋势线，画出该股后续“阴跌”的走势。<br>
+
+<br>这张图和上一张图形成的鲜明对比，本身就是最强的论据。<br>
+
+
+
+<br>幻灯片 11：总结 - 成功的关键<br>
+<br>标题： 总结：交易成功的等式<br>
+
+<br>视觉元素： 一个简洁的公式。
+
+<br>一个正期望值的系统 + 钢铁般的执行纪律 = 长期盈利<br>
+
+
+
+<br>幻灯片 12：Q&amp;A<br>
+<br>视觉元素： 简洁的“谢谢聆听 &amp; Q&amp;A”页面。<br>
+
+<br><br>(开始)<br>【-- 幻灯片 1：标题页 --】<br>“大家下午好。非常荣幸能在这里和大家做一次分享。今天我想和大家探讨的，是一个基于技术分析的交易框架，以及如何利用它来驾驭一个充满情绪的市场。”<br>【-- 幻灯片 2：两种分析维度的对比 --】<br>“刚才我的同事（某某）已经对基本面分析做了非常精彩的讲解，他为我们展示了如何从‘价值’的维度去深度剖析一家公司。基本面分析回答的是‘我们应该买什么’这个核心问题。”<br>“接下来，我将从另一个维度——‘时机’与‘情绪’——来分享我的经验。也就是技术分析（TA）在实战中的应用。如果说基本面帮我们找到好的公司，那么技术分析则能更好地帮助我们决定‘何时买入’和‘何时卖出’。”<br>【-- 幻灯片 3：论据1 - 2024：一个由“情绪”主导的市场 --】<br>“在展开我的交易系统之前，我想先探讨一个问题：为什么我认为，在去年（2024年）那样一个特殊的市场环境下，技术分析对短线交易者而言，其重要性甚至超过了基本面分析？”<br>“大家可以看到这张图，这是去年（纳斯达克/标普500）的走势。我们能清晰地看到几个关键的波动点，它们都不是由公司财报引发的，而是由地缘政治、联储发言等宏观事件驱动。在这样的市场里，股价的短期走势，更多是市场‘群体心理’的直接投射，而非公司‘内在价值’的客观反映。”<br>【-- 幻灯片 4：技术分析的核心假设 --】<br>“这恰恰就是技术分析发挥作用的地方。技术分析有一个最核心的假设，就是价格行为包容和消化一切信息。它不关心上涨背后的原因是什么，它只关心所有这些原因最终在‘价格’和‘成交量’这张图上留下的痕迹。它研究的是结果，而非原因。”<br>【-- 幻灯片 5：我的交易系统 - 三步决策漏斗 (概览) --】<br>“基于这个理念，我建立了一套自己的交易系统。我把它比作一个三步决策漏斗，帮助我从纷繁的市场信息中，逐步过滤并锁定交易机会。”<br>【-- 幻灯片 6：论据2 - 交易系统实战图解 (入场前) --】<br>“第一步和第二步，是寻找战场并锁定目标。我会先看日K线图，确认它的大趋势是健康的，避免买入一个长期下跌的股票。然后，我会分析它的盘前走势，一个健康的拉升应该是有回调和承接的，这代表了市场对它有共识。”<br>【-- 幻灯片 7：论据3 - “信号共振”入场模型 (核心) --】<br>“当目标锁定后，就到了最关键的第三步：等待一个精准的入场信号。我称之为‘信号共振’模型，它需要三个条件同时或在短时间内先后满足：”<br>“第一，成交量‘点火’，分钟级别的成交量突然出现巨幅放大；第二，价格‘突破’，股价强势突破一个关键的阻力位；第三，也是最能体现时效性的一点，是在MACD指标即将金叉但尚未金叉时，进行‘预期’交易。当这三个信号共振时，就是我扣动扳机的时刻。”<br>【-- 幻灯片 8：论据4 - 风控核心：回本的数学 --】<br>“但是，一个能盈利的系统，进攻和防守同等重要。我的风控核心，基于一个残酷但真实的数学事实。大家看这个表格，20%的亏损，需要25%的盈利来弥补；而50%的亏损，则需要翻倍才能回本。这就是为什么说，保住本金，永远是交易的第一原则。”<br>【-- 幻灯片 9：案例复盘 (成功阶段) --】<br>“理论的价值最终要通过实践来检验。下面我将复盘一次真实的交易。这是一个医药股，因为重大的并购新闻，完全符合我的系统标准。我通过‘信号共振’模型入场，当天盘中，这笔交易的浮动盈利一度接近我总资金的30%。到此为止，这是一次完美的、系统内的成功交易。”<br>【-- 幻灯片 10：论据5 - 案例复盘 (失败阶段) --】<br>“然而，风险正是在这个节点出现的。我当时被巨大的利润冲昏了头脑，做出了一个致命的决定：持有仓位过夜。我打破了自己‘日内平仓’的铁律，完成了一次从‘技术交易者’到‘基本面投资者’的策略偏离。”<br>“大家可以看到后续的走势。市场的热点迅速转移，股价开始了漫长的阴跌。我此前的巨额利润不仅全部归零，最终还造成了本金的亏损。这张图血淋淋地告诉我，纪律比信念更重要。”<br>【-- 幻灯片 11：总结 - 成功的关键 --】<br>“所以，最后我想用一个简单的等式来总结我今天的分享。在股票市场想要获得长期的成功，或许不取决于我们预测未来的能力，而是取决于两点：第一，建立并相信一套像这样具有正向数学期望的交易系统；第二，也是更重要的，拥有钢铁般的纪律去日复一日地执行它。”<br>【-- 幻灯片 12：Q&amp;A --】<br>“我的分享就到这里，谢谢大家。看看大家有没有什么问题想交流。”]]></description><link>文件/2025-07广发/_资源/ppt.html</link><guid isPermaLink="false">文件/2025-07广发/_资源/ppt.md</guid><pubDate>Wed, 16 Jul 2025 14:28:20 GMT</pubDate></item><item><title><![CDATA[上午-财富管理]]></title><description><![CDATA[<a class="tag" href="?query=tag:gfs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#gfs</a> <a class="tag" href="?query=tag:财富管理" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#财富管理</a> 
+ <br><a href=".?query=tag:gfs" class="tag" target="_blank" rel="noopener nofollow">#gfs</a> <a href=".?query=tag:财富管理" class="tag" target="_blank" rel="noopener nofollow">#财富管理</a><br><br>杨帆老师分享<br><br>
+<br>证券经纪
+<br>金融产品销售
+<br>融资融券
+<br><br>以客户为核心<br>
+<br>佣金
+<br>代销产品
+<br>利率差
+<br>咨询服务等
+<br><br>从个性化到标准化<br>
+<br>高净值
+<br>大众富裕
+<br>大众
+<br>佣金率不断下降，财富管理转型<br><br><br>
+<br>专业投顾人才不足
+<br>产品体系不够完善
+<br><br>
+<br>增长快
+<br>财富传承需求大
+<br><br>
+<br>大类资产配置
+<br>产品组合配置
+
+<br>单一产品易受不确定性冲击且无法抓住潜在套利机会
+
+
+<br><br>蔡老师分享<br><br><br>
+<br>增长模式改变
+<br>业务经营模式升级
+<br>行业生态
+
+<br>传统模式
+
+<br>互联网广告竞价
+<br>获客成本提高
+
+
+<br>数字化转型
+
+<br>跨界共建，共享渠道
+
+
+
+
+<br>组织模式
+
+<br>传统模式
+
+<br>系统化 部门强
+
+
+<br>数字化转型
+
+<br>敏捷化、数字化
+
+
+
+
+<br>科技能力升级
+<br><br>
+<br>大平台or小平台
+
+<br>小平台抗风险能力弱，业务少
+
+
+<br>中后台or业务岗
+
+<br>看需求
+
+
+<br>专业与职业选择
+
+<br>都可以
+
+
+<br><br>
+<br>独特数据越来越重要。
+<br><br>张瑜老师分享——股权于企业资本运作全程中的概览<br><br>
+<br>67% 绝对控股
+<br>34% 一票否决
+<br>51% 相对控股
+<br>20% 竞业警示线
+<br><br>俏江南、雷士、真功夫<br><br>
+<br>用A股东70%股权绝对控股中间控股公司
+<br>再用中间控股公司70%股权绝对控股公司
+<br><br>建议使用并联的股权架构，如果有公司出现纠纷亏损等情况影响较小<br><br>考虑要点：<br>
+<br>行业潜力、容量（天花板）
+<br>管理团队能力
+<br>优势、壁垒
+<br>当前盈利能力
+<br>发展预期的依据
+<br><br>上市初期<br>
+<br>闲置基金理财
+<br>股票质押融资
+<br>瓶颈期<br>
+3. 上市公司再融资<br>
+4. 股权激励<br>市值管理期<br>
+5. 并购基金设立<br>
+6. 市值管理<br>
+<br>减持/税务优惠
+<br>股东减持套现可以在低点转让给和自己有关的个体以期税务优惠。高点卖给市场盈利。<br>
+高位大宗减持。<br>
+<a data-href="无风险定增套利" href="无风险定增套利" class="internal-link" target="_self" rel="noopener nofollow">无风险定增套利</a><br>今日心得]]></description><link>文件/2025-07广发/笔记/2025-07-16.html</link><guid isPermaLink="false">文件/2025-07广发/笔记/2025-07-16.md</guid><pubDate>Thu, 17 Jul 2025 06:05:41 GMT</pubDate></item><item><title><![CDATA[广发7-15]]></title><description><![CDATA[ 
+ <br>9:00 领导讲话 多问 多cc<br>
+9:15—— 才艺展示<br>
+10:30 陈逸敏<br>
+交易与机构<br>
+<a data-href="浮动收益凭证" href="浮动收益凭证" class="internal-link" target="_self" rel="noopener nofollow">浮动收益凭证</a><br>
+乾和 另类投资<br>投资管理<br>
+<br>资管<br>
+<a data-href="跨境理财通" href="跨境理财通" class="internal-link" target="_self" rel="noopener nofollow">跨境理财通</a><br>
+<a data-href="QD" href="QD" class="internal-link" target="_self" rel="noopener nofollow">QD</a>
+<br>公募
+<br>私募
+<br><a data-href="lone call" href="lone call" class="internal-link" target="_self" rel="noopener nofollow">lone call</a><br>广培生优才计划<br>今日课题：1、你在今天课程中印象最深的是什么内容，有什么心得？<br>
+2、你所了解的财富管理具体形式是怎样的？你了解的国内财富管理业务做得较好的是什么机构，能分享下你所了解的它的具体做法吗？你觉得还有没有更好的做法？<br>
+3、你作为新人，进入到这个行业会具体做哪些安排？<br>1.今天上午陈总向我们介绍了]]></description><link>文件/2025-07广发/笔记/广发7-15.html</link><guid isPermaLink="false">文件/2025-07广发/笔记/广发7-15.md</guid><pubDate>Tue, 15 Jul 2025 07:21:32 GMT</pubDate></item><item><title><![CDATA[上午-简历面试指导]]></title><description><![CDATA[ 
+ <br><br><br><br><br>
+<br>考研
+<br>创业
+<br>找工作
+<br>]]></description><link>文件/2025-07广发/笔记/广发7-17.html</link><guid isPermaLink="false">文件/2025-07广发/笔记/广发7-17.md</guid><pubDate>Thu, 17 Jul 2025 06:24:36 GMT</pubDate></item><item><title><![CDATA[上午-证券分享]]></title><description><![CDATA[ 
+ <br><br>赵愚睿老师分享<br><br><br>金融销售走向时尚化和娱乐化<br>金融销售分为两类：<br>
+<br>“专业销售”：
+
+<br>从客户展开
+
+
+<br>“销售专业”：
+
+<br>从专业角度展开
+
+
+<br>股票的价值与价格<br>
+<br>票面
+<br>账面
+<br>市值
+<br>市价
+<br>股票的分类<br>
+<br>股权特点分：
+
+<br>优先股
+<br>普通股
+
+
+<br>国内股指介绍：<br>
+<br>国内
+
+<br>上证综合指数（沪指）
+<br>深证成份股指数（深指）
+<br>沪深300
+
+
+<br>IPO（Initial Public Offering）<br>
+首次公开发行<br>
+<br>公开增发：上市公司向市场所有参与者公开发行股票
+<br>定向增发：非公开发行
+<br>常用术语指标<br>
+<br>EPS
+<br>ROE
+<br>PE
+<br>PB<br>
+翻了一倍不一定贵，要看市盈率<br>
+但是注意二级市场中的人更多看重的是价格的改变！
+<br><br>对一个信息不同视角的解读不同，注意信源的质量以及思考文章撰写者的立场和角度。<br><br><br>文赋老师分享<br>面对完全陌生的内容如何入手？<br>
+使用图寻引入<br>在调研前要提出问题<br><br><br>
+<br>
+多与少
+
+<br>
+快与慢<br>
+1. 图像和文字的区别<br>
+2. 一本书可以用很多不同的目录 
+问题
+标签化阅读和增量阅读和这一样吗？可以实现吗？
+
+
+<br><br><br>通过数据和逻辑去支持观点<br><br><br>QA<br>
+新财富 前5]]></description><link>文件/2025-07广发/笔记/广发7-18.html</link><guid isPermaLink="false">文件/2025-07广发/笔记/广发7-18.md</guid><pubDate>Sat, 19 Jul 2025 05:18:00 GMT</pubDate></item><item><title><![CDATA[AI工具券商应用]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Notion AI
+<br>秘塔ai搜索
+<br>ECharts
+<br><br><br><br><br>]]></description><link>文件/2025-07广发/笔记/广发7.15讲座.html</link><guid isPermaLink="false">文件/2025-07广发/笔记/广发7.15讲座.md</guid><pubDate>Thu, 17 Jul 2025 05:08:15 GMT</pubDate></item><item><title><![CDATA[招商银行与广发证券：发展沿革与交叉比较分析报告]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>模块一：创始基因与初期探索
+  招商银行于1987年在改革开放的前沿阵地——深圳蛇口工业区诞生。其特殊之处在于，它是由企业法人（招商局）全资创办的中国第一家股份制商业银行，这决定了其从创立之初就带有市场化、创新求变的“蛇口基因”。这一独特的出身，使其摆脱了传统银行的路径依赖，为日后大胆的业务革新和对市场的高度敏感性奠定了制度与文化的基础。<br>
+
+<br>模块二：战略转折与成长跃迁
+  招行历史上最关键的跃迁源于其两次转型。早在1995年和1997年，招行就凭借“一卡通”和“网上银行”积累了领先于同业的技术和零售客户基础。在此之上，2004年，时任行长马蔚华正式提出“第一次转型”，果断将重心全面转向不受资本约束的零售银行业务，颠覆了当时行业普遍依赖对公业务的模式。这次转型取得了巨大成功，奠定了其零售业务的王者地位。随后，2010年提出的“二次转型”及2017年“金融科技银行”的定位，则是对这一战略的深化，旨在通过提升效率、强化风控和全面数字化，追求更高质量的内涵式发展。<br>
+
+<br>模块三：核心壁垒与市场名片
+  历经两次转型，招商银行成功塑造了 ”零售之王“ 这一不可动摇的市场名片。其核心壁垒由两大支柱构成：一是深度经营的客户分层体系，从服务大众的“一卡通”，到面向中高端客户的“金葵花理财”，再到服务高净值人群的私人银行，实现了对零售客户价值的全面覆盖。二是以客户体验为核心的金融科技能力，持续的科技投入让其在数字化服务上保持领先，屡获“中国最佳数字银行”等赞誉，构筑了强大的竞争护城河。<br>
+
+<br>模块四：当前格局与未来展望 
+  如今，招商银行已是全球顶尖的银行集团。在2024年《银行家》“全球银行1000强”榜单中，其一级资本已位列全球第11，品牌价值亦稳居前列。展望未来，招行面临着如何更好地服务企业“走出去”和居民财富全球化配置的新需求。对此，招行明确了“科技兴行”的战略，旨在打造“云+AI+中台”的数智化底座，以技术持续驱动业务创新，应对未来的挑战与机遇。<br>
+
+<br><br>
+<br>模块一：创始基因与初期探索
+  广发证券诞生于中国资本市场初兴的年代。1991年，在广东发展银行（广发银行前身）证券部的基础上设立，当时正值中国开启股份制改革与证券市场探索的浪潮。其初始定位是服务于广东省的经济发展，为区域内的企业提供证券融资服务。初创阶段，广发证券最重要的特征是其深厚的“广东基因”和早期形成的务实、市场化的经营风格。作为广东发展银行的全资子公司，它获得了银行体系的初步信用和客户支持，这为其在激烈的市场环境中立足并迅速发展奠定了关键基石。<br>
+
+<br>模块二：战略转折与成长跃迁
+  广发证券历史上最关键的转折点是 2001年的增资扩股与员工股权激励的实施。在创始人陈云贤博士的主导下，广发证券抓住了当时证券公司增资扩股的政策窗口，大胆引入了多元化的社会法人股东，并率先在业内推行了员工股权激励计划。这一系列操作的背后逻辑是解决当时国有券商普遍存在的“所有者缺位”和激励不足的问题。此转折带来了优化治理结构、凝聚顶尖人才、重塑发展轨迹三大深远影响，支撑其从一家区域性券商，一跃成为治理结构领先、充满内生动力的全国性头部券商。<br>
+
+<br>模块三：核心壁垒与市场名片
+  今天，当市场提及广发证券，其最鲜明的“名片”是 “领先的财富管理专家” 与 “机制最具活力的头部券商之一”。这张名片背后，是其强大的财富管理服务体系、稳健的全业务链能力，以及一个由领先的治理机制、深厚的企业文化、以及在此基础上生长出的强大的人才队伍与专业能力所构成的综合生态。开创性的员工持股计划，将核心员工的利益与公司发展深度绑定，形成了强大的“事业共同体”文化，成为其吸引和保留顶尖人才的核心竞争力。<br>
+
+<br>模块四：当前格局与未来展望
+  当前，广发证券稳居中国证券行业第一梯队。截至2023年末，其总资产超过6800亿元人民币，代理买卖证券业务净收入市场份额位居行业前列。未来，公司面临的最大挑战源于宏观经济增速放缓和日趋激烈的同质化竞争；而机遇则在于居民财富向资本市场转移的长期趋势。对此，广发证券明确提出要 “向现代投资银行和财富管理机构转型” 的战略方向，持续深化财富管理转型，并着力提升主动投资管理、金融科技赋能等核心能力。<br>
+
+<br><br><br>招商银行与广发证券，分别是中国银行业与证券业市场化改革的标杆。它们诞生于同一时代背景，共享着改革创新的“市场化基因”，但却在通往卓越的道路上，选择了两条截然不同的发展路径。招行通过颠覆性的服务与产品创新重塑了行业格局，而广发则通过开创性的治理与机制创新激发了组织活力。对二者发展路径的比较，能深刻揭示中国金融机构成功的不同范式。<br><br>
+<br>2.2.1 草创与探索期 (1987-2000)：市场化基因的两种表达
+  在这一阶段，两家公司都展现了与生俱来的市场化特质，但表达方式不同。
+
+<br>招商银行的创新是 “颠覆式” 的。作为第一家企业法人持股的银行，它的存在本身就是对旧体制的突破。1995年推出的“一卡通”，更是直接面向亿万储户，用一款革命性的产品重塑了个人银行服务的体验。其路径是由外向内的，通过服务最终客户来倒逼内部改革和系统升级。<br>
+
+<br>广发证券的创新则是 “务实型” 的。脱胎于广发银行，其初期的核心任务是服务好广东地区的经济发展，带有浓厚的区域服务色彩。它的市场化体现在经营风格的灵活务实，而非产品的颠覆。其路径是 B端（企业端）优先的，在服务机构客户中稳扎稳打。<br>
+
+
+
+<br>2.2.2 转型与分野期 (2001-2009)：服务驱动 vs 机制驱动
+  这是两家公司发展道路的 “大分流” 时期，它们分别找到了属于自己的“胜负手”。
+
+<br>招商银行的“胜负手”是业务转型。 面对利率市场化和资本约束的压力，它在2004年启动了第一次零售转型。这是一次战略驱动的变革，核心是 “做什么” 的问题——即从低利润的对公业务转向高增长、低资本消耗的零售业务。其成功的基石是早已布局的“一卡通”和网银系统。<br>
+
+<br>广发证券的“胜负手”是体制改革。 面对国有券商普遍的激励不足问题，它在2001年推动了增资扩股和员工持股。这是一次机制驱动的变革，核心是 “为谁干、怎么干” 的问题——即通过优化治理结构和利益捆绑，激活人的创造力。其成功的基石是管理层对人性与制度的深刻洞察。<br>
+
+
+
+<br>2.2.3 深化与壁垒期 (2010-至今)：零售之王 vs 财富专家
+  在此阶段，两家公司都将转型期的优势转化为了坚实的护城河。
+
+<br>招商银行沿着零售之路纵深发展，通过“金葵花理财”、私人银行等服务构建了完善的客户分层体系，最终加冕 “零售之王”。其护城河是 “品牌+平台”，即强大的零售品牌认知和领先的数字化服务平台。<br>
+
+<br>广发证券则凭借领先的机制吸引了业内顶尖人才，打造了强大的投研、投行和财富管理团队，成为 “财富管理专家” 和 “机制最活力的头部券商”。其护城河是 “人才+文化”，即由“事业共同体”文化凝聚的、难以复制的人才队伍。<br>
+
+
+
+<br><br>招商银行和广发证券的成功，为中国金融机构的改革发展提供了两个经典样本。<br>
+<br>招商银行的路径是 “客户/产品驱动” 的成功范式。它证明了，通过精准洞察并极致满足客户需求，用革命性的产品和服务，完全可以开创一片新蓝海，并建立起强大的品牌与平台壁垒。<br>
+
+<br>广发证券的路径则是 “治理/人才驱动” 的成功范式。它证明了，在智力密集型的金融行业，解决最根本的治理结构和激励机制问题，能够最大限度地释放人的潜能，从而建立起以专业人才为核心的、最难被模仿的竞争优势。<br>
+
+<br>尽管路径不同，但它们的成功都源于在发展的关键节点，管理层展现出的非凡远见和转型魄力。在金融行业日益同质化的今天，它们的故事启示我们：真正的护城河，始于对第一性原理的思考——是为客户创造全新的价值，还是为人才打造最优的平台。]]></description><link>文件/2025-07广发/心得/招商银行与广发证券：发展沿革与交叉比较分析报告.html</link><guid isPermaLink="false">文件/2025-07广发/心得/招商银行与广发证券：发展沿革与交叉比较分析报告.md</guid><pubDate>Tue, 15 Jul 2025 13:00:33 GMT</pubDate></item><item><title><![CDATA[未经整理的思路]]></title><description><![CDATA[ 
+ <br>问题清单：<br>
+<br>
+广发证券作为非银机构大概占市场份额多少 【贝恩报告p51图表】<a data-href="贝恩-招商报告.pdf" href="文件/2025-07广发/_资源/贝恩-招商报告.pdf" class="internal-link" target="_self" rel="noopener nofollow">贝恩-招商报告.pdf</a>
+
+<br>
+各大机构投顾的工作流细节是如何的
+
+<br>
+另类投资 虚拟货币 这些私财机构有什么案例 <a data-footref="1" href="about:blank#fn-1-2a8ca1828c5a18d0" class="footnote-link" target="_self" rel="noopener nofollow">[1]</a>
+
+<br>
+直接指数投资和FOF
+
+<br>
+近来的境外投资如何，贝恩报告中境外投资增速放缓
+
+<br><br>建立一个从顶至下的分析框架<br>首先讲我们是怎么从宏观看待这个财富管理市场的，然后从我们的分析框架我们发现了什么微观的有价值的视角或切入点（比如AI投顾，另类投资，虚拟货币，境外投资）。最后重点展开讲如何在产品或是与客户的交流中应用这些切入点。<br><br>可持续投资和ESG要不要考虑单独拎出来说呢呢，在贝恩的报告里面有提到高净值人群有大概33%提到了ESG/社会责任这些内容<br>对于一些新的技术与模式不能简单介绍，要研究如何应用到广发的场景<br>房地产代币化 数字资产证券化、代币化<br>
+税务需求相对较低<br><br>AI智能投顾要考虑使用端的体验 个性化投资建议<br>如何向用户展示非raw数据，如何通过让用户简单点一下数据就可以自动唤出ai分析，ai的定制展示相对积极的信息，在这过程中用户所获的的成就感以及通过“自主”分析所获的踏实感。让用户通过自己的“智力劳动”来获得观点结论与通过传统的投顾讲解的说服性不一样。是否大多数用户认为ai是价值无涉的呢？<br><a data-tooltip-position="top" aria-label="https://blog.csdn.net/weixin_53105865/article/details/149085857" rel="noopener nofollow" class="external-link" href="https://blog.csdn.net/weixin_53105865/article/details/149085857" target="_blank">AI+智能投顾：2025年行业现状、技术变革与未来五年战略推演-CSDN博客</a><br><br>相比银行的稳定性，券商机构的优势主要在证券、基金等需求上，核心是差异化和个性化<br><br><br><br><img alt="Pasted image 20250719152312.png" src="文件/2025-07广发/_资源/pasted-image-20250719152312.png"><br>
+<img alt="Pasted image 20250719151914.png" src="文件/2025-07广发/_资源/pasted-image-20250719151914.png"><br>
+<img alt="Pasted image 20250719152219.png" src="文件/2025-07广发/_资源/pasted-image-20250719152219.png"><br><br>客户全流程的体验【”客户旅程“在贝恩报告里】<br>
+券商机构的差异化与个性化<br>
+风险偏好有所回升<br><br><br>我们看待当前财富管理市场的核心，是它正在经历几个根本性的转变：<br>
+<br>从“以产品为中心”到“以客户为中心” (From Product-Centric to Client-Centric): 过去，财富管理机构的核心是销售金融产品（基金、保险、信托）。现在，市场的赢家必须围绕客户的生命周期、财务目标和价值观来提供综合性解决方案。这不再是“我有什么产品可以卖给你”，而是“为了实现你的目标，你需要什么样的资产配置、税务规划和风险管理方案”。
+<br>从“资产增值”到“综合目标规划” (From Asset Appreciation to Holistic Goal Planning): 高净值客户的需求早已超越了单纯的“让钱生钱”。他们的需求是立体的，涵盖了财富传承、子女教育、退休规划、风险隔离、税务优化和社会价值实现（如慈善与ESG）。财富管理机构的角色，从一个“投资经理”转变为客户家庭的“首席财务官 (CFO)”。
+<br>从“本土传统”到“全球另类” (From Local/Traditional to Global/Alternative): 随着资本市场的全球化和客户视野的开阔，单一的A股、房产、银行理财已经无法满足需求。配置必须走向全球，同时纳入更多与传统股债相关性低的另类资产（如私募股权、对冲基金、房地产代币化、虚拟资产等），以平滑风险、捕捉新的增长点。
+<br>从“人力驱动”到“科技赋能” : 技术（特别是AI）不再仅仅是提升效率的后台工具，它正在重塑前端的客户体验和投顾的专业能力。AI可以处理海量数据，提供个性化建议，并将人类投顾从重复性劳动中解放出来，专注于更复杂的情感沟通和战略规划。
+<br><br>基于以上宏观判断，我们可以识别出几个极具价值的微观切入点。这些不是孤立的趋势，而是宏观转变的具体体现。<br>
+<br>
+AI智能投顾 (AI-Powered Advisor):
+
+<br>核心价值: 它不应被视为取代人类投顾的威胁，而是增强客户和投顾双向能力的“超级辅助 (Co-pilot)”。它解决了传统投顾服务覆盖面有限、成本高、以及人类认知偏差的问题。<br>
+
+<br>你的洞察很关键: 其核心在于用户端的体验设计，让客户感受到“控制感”和“成就感”。<br>
+
+
+
+<br>
+另类投资的民主化与创新 (Democratization and Innovation in Alternatives):
+
+<br>核心价值: 将过去仅限于超高净值人群和机构投资者的资产类别，通过技术手段（如房地产代币化）变得更易得、门槛更低、流动性更高。这为中高净值人群提供了真正意义上的多元化配置工具。<br>
+
+<br>应用场景: 对于广发这样的大型机构，这意味着可以设计出标准化的、小额化的另类投资产品，丰富自身的产品货架。<br>
+
+
+
+<br>
+可持续投资/ESG (Sustainable Investing/ESG):
+
+<br>核心价值: 这不再是一个小众的“情怀”选项。贝恩报告的33%数据明确指出，这已成为相当一部分高净值人群的核心关切。它融合了价值观实现和长期风险管理。投资于ESG表现优秀的公司，在很多投资者看来，等同于投资于那些管理更规范、更能适应未来监管和社会变化、商业模式更具韧性的公司。<br>
+
+<br>应用场景: 这可以成为与年轻一代（财富继承者）沟通的绝佳桥梁，他们对社会责任和环境议题的关注度远超父辈。<br>
+
+
+
+<br>
+全球化配置与新兴资产 (Global Allocation &amp; Emerging Assets):
+
+<br>核心价值: 在地缘政治和经济周期分化的背景下，单一国家市场的风险敞口过大。配置海外资产（发达市场、新兴市场）是分散风险的必然选择。而虚拟货币（如比特币）则作为一种高风险、高波动、与传统资产相关性极低的新兴资产，可以被纳入观察仓或作为“卫星配置”的一小部分，以捕捉潜在的超额收益。<br>
+
+<br>应用场景: 为客户提供便捷的跨境投资渠道（如QDII基金、跨境理财通等）和专业的全球市场分析。对虚拟货币则需要进行充分的风险教育。<br>
+
+
+
+<br>(注：在中国大陆目前的税制环境下，资本利得税等尚未全面铺开。因此，它可以作为一个服务点，但可能不是吸引客户的最优先切入点。)<br><br>这是将战略转化为行动的关键。<br><br>你的想法非常切中要害。关键在于让AI成为客户“自己的”分析工具，而不是一个发号施令的黑盒子。<br>
+<br>产品设计层面:
+
+<br>可视化与交互，而非原始数据: 永远不要给用户看原始数据表格。要把持仓、收益、风险等指标转化为交互式图表（如热力图、气泡图、瀑布图）。<br>
+
+<br>“一键唤醒AI分析”: 在图表的任何一个关键节点（比如某个持仓、某个行业板块、某个风险指标）旁边设置一个“AI分析”或“？”按钮。用户点击后，弹出一个侧边栏或卡片，用自然语言解释：
+
+<br>“您的科技股持仓（占总资产25%）是上月收益的主要贡献者。AI模型分析认为，其短期波动风险有所上升。点击查看[风险对冲方案]。”<br>
+
+<br>“您持有的XX基金与您投资组合中另外三支基金高度相关，这可能削弱了分散投资的效果。AI建议考虑替换为[低相关性基金A]。”<br>
+
+
+
+<br>定制化的积极信息与成就感: AI的报告或提醒，可以优先展示客户做得好的地方。“恭喜！您上季度坚持的定投计划，已成功将您的持仓成本降低了3%。” 这种正反馈能极大地增强用户粘性。<br>
+
+<br>“沙盘推演”功能 (Sandbox Mode): 提供一个模拟器。让用户可以自己调整配置，比如“如果我把10%的现金换成黄金会怎么样？”，AI立刻模拟出调整后的预期收益率、最大回撤和波动率变化。这就是你说的“智力劳动”——结论是用户在AI的帮助下“亲手”得出的，其信服力和满意度远超投顾的单向灌输。<br>
+
+
+
+<br>客户沟通层面:
+
+<br>AI的“价值无涉”幻觉: 这是一个可以利用的心理学优势。客户往往倾向于认为机器是客观中立的。在沟通中可以这样表述：“我们人类投顾当然有经验，但不可避免会有情绪和偏见。所以，我们引入了AI分析系统，它可以7x24小时监控全球市场数据，为我们提供一个完全基于数据的、客观的参考视角。我们来看一下AI对您目前持仓的‘体检报告’。”<br>
+
+<br>明确AI的局限性: 同时也要坦诚，AI的结论基于历史数据和特定模型，无法预测黑天鹅事件。人类投顾的价值在于理解AI无法理解的东西：客户的家庭状况、突发情绪、长远梦想。最终决策是“AI的客观分析 + 投顾的经验智慧 + 客户的最终确认”三者结合的结果。<br>
+
+
+
+<br><br>
+<br>产品设计层面:
+
+<br>另类投资: 以“房地产代币化”为例，产品界面要极度简化，突出核心指标：项目地点照片/视频、产权信息、预期租金回报率、年化升值预测、最低投资额。购买流程要像买基金一样简单。<br>
+
+<br>ESG整合: 不再是设立一两个“ESG基金”就结束了。应该在系统中为所有产品打上ESG标签和评分。让用户可以一键筛选“高ESG评分”的股票或基金，甚至可以一键分析自己整个投资组合的“碳足迹”或ESG综合得分。<br>
+
+
+
+<br>客户沟通层面:
+
+<br>用故事和价值观沟通ESG: 不要讲复杂的ESG评级方法论。讲故事：“我们投资的这家公司，正在开发下一代水净化技术，不仅解决了XX地区的环境问题，其技术专利也构成了强大的护城河，我们认为这具备长期增长潜力。” 这就把社会价值和财务回报联系起来了。<br>
+
+<br>用场景沟通另类投资: “我们注意到您的资产大部分集中在股债市场，当股市和债市都表现不佳时，您的资产会面临较大回撤。我们建议配置一小部分（例如5%）资金到这个商业地产代币化项目中，它的租金可以提供稳定的现金流，受股市波动影响很小，能起到一个‘压舱石’的作用。”
+
+
 <br><br><br>
-<br>金融学 (Finance)
-<br>价值 (Value)
-<br>风险 (Risk)
-<br>货币时间价值 (Time Value of Money, TVM)
-<br>现值 (Present Value, PV)
-<br>终值 (Future Value, FV)
-<br>折现 (Discounting)
-<br>复利 (Compounding)
-<br>折现率 (Discount Rate)
-<br>风险与回报 (Risk and Return)
-<br>期望回报率 (Expected Return)
-<br>标准差 (Standard Deviation)
-<br>风险规避 (Risk Aversion)
-<br>无风险利率 (Risk-free Rate, Rf)
-<br>风险溢价 (Risk Premium)
-<br><br>
-<br>金融市场 (Financial Market)
-<br>资本市场 (Capital Market)
-<br>货币市场 (Money Market)
-<br>一级市场 (Primary Market)
-<br>二级市场 (Secondary Market)
-<br>股票 (Stocks/Equities)
-<br>债券 (Bonds/Debt)
-<br>金融衍生品 (Derivatives)
-<br>对冲 (Hedging)
-<br>投机 (Speculation)
-<br>杠杆 (Leverage)
-<br>远期 (Forwards)
-<br>期货 (Futures)
-<br>期权 (Options)
-<br>互换 (Swaps)
-<br><br>
-<br>现代投资组合理论 (Modern Portfolio Theory, MPT)
-<br>分散化 (Diversification)
-<br>系统性风险 (Systematic Risk)
-<br>非系统性风险 (Unsystematic Risk)
-<br>有效前沿 (Efficient Frontier)
-<br>资本资产定价模型 (Capital Asset Pricing Model, CAPM)
-<br>贝塔系数 (Beta, β)
-<br>证券市场线 (Security Market Line, SML)
-<br>有效市场假说 (Efficient Market Hypothesis, EMH)
-<br>法马-佛伦奇三因子模型 (Fama-French Three-Factor Model)
-<br>规模因子 (SMB, Small Minus Big)
-<br>价值因子 (HML, High Minus Low)
-<br><br>
-<br>公司估值 (Company Valuation)
-<br>折现现金流 (Discounted Cash Flow, DCF)
-<br>加权平均资本成本 (Weighted Average Cost of Capital, WACC)
-<br>期权定价 (Option Pricing)
-<br>随机微积分 (Stochastic Calculus)
-<br>伊藤引理 (Ito's Lemma)
-<br>布莱克-舒尔斯-默顿 (BSM) 模型 (Black-Scholes-Merton Model)
-<br>隐含波动率 (Implied Volatility)
-<br>波动率微笑 (Volatility Smile)
-<br><br>
-<br>算法交易 (Algorithmic Trading)
-<br>高频交易 (High-Frequency Trading, HFT)
-<br>统计套利 (Statistical Arbitrage, StatArb)
-<br>均值回归 (Mean Reversion)
-<br>金融机器学习 (Financial Machine Learning)
-<br>监督学习 (Supervised Learning)
-<br>无监督学习 (Unsupervised Learning)
-<br>深度学习 (Deep Learning)
-<br>长短期记忆网络 (Long Short-Term Memory, LSTM)
-<br>自然语言处理 (Natural Language Processing, NLP)
-<br>情绪分析 (Sentiment Analysis)
-<br><br>核心内化 (Core Internalization)
-这是笔记的核心。用你自己的话，清晰、简洁地阐述你对这个知识点的理解。
-<br><br>实践应用 (Practical Application)
-这个知识点具体是如何应用到你的项目中的？解决了什么实际问题？
+<br>
+<br><a data-tooltip-position="top" aria-label="https://xueqiu.com/8313811885/340512454" rel="noopener nofollow" class="external-link" href="https://xueqiu.com/8313811885/340512454" target="_blank">Fetching Title#ovxg</a><a href="about:blank#fnref-1-2a8ca1828c5a18d0" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+]]></description><link>文件/2025-07广发/答辩.html</link><guid isPermaLink="false">文件/2025-07广发/答辩.md</guid><pubDate>Sat, 19 Jul 2025 09:07:35 GMT</pubDate><enclosure url="文件/2025-07广发/_资源/pasted-image-20250719152312.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;文件/2025-07广发/_资源/pasted-image-20250719152312.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[答辩2]]></title><description><![CDATA[<a class="tag" href="?query=tag:高学历" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#高学历</a> <a class="tag" href="?query=tag:新经济事业" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#新经济事业</a> <a class="tag" href="?query=tag:金融知识" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#金融知识</a> 
+ <br>任务：<br>
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; z时代<br>
+<br>
+规模、特点
+
+<br>
+服务——智能顾投、ETF（其他）、电子信息平台
+
+<br>服务——AI、生命周期（划分、动态策略）、教育、遗产（遗产税）<br><br><br>此处对”年轻一代“的划分为对高净值人群的一个简单切分，财富管理机构需要意识到，高净值人群的综合需求、风险偏好等并非一成不变，而是动态调整的，尤其是在当前的市场环境下。这要求财富管理机构能够做到及时、动态跟进，为高净值人群打造适配的、差异化的金融+非金融解决方案。<br>标签： <a href=".?query=tag:高学历" class="tag" target="_blank" rel="noopener nofollow">#高学历</a> <a href=".?query=tag:新经济事业" class="tag" target="_blank" rel="noopener nofollow">#新经济事业</a> <a href=".?query=tag:金融知识" class="tag" target="_blank" rel="noopener nofollow">#金融知识</a> <br>“年轻一代”是指年龄在40岁以下的高净值客群，该群体近年来增势较快，已然成为高净值群体的重要组成部分，并将成为未来财富管理的生力军。<br>在2023年的调研中，40岁以下的高净值人士占比达49%。<br><img alt="Pasted image 20250719214050.png" src="文件/2025-07广发/_资源/pasted-image-20250719214050.png"><br>本科以上学历人群占比94%，以专业人士、职业经理人、家族二代企业家、家庭经营者为主。<br><img alt="Pasted image 20250719213203.png" src="文件/2025-07广发/_资源/pasted-image-20250719213203.png"><br>特点：<br>
+<br>
+年轻一代整体风险偏好更高，财富目标看重创造更多财富，对新兴产品更感兴趣。<br>
+调研发现，受访年轻一代主要考虑的新兴资产类别<a data-footref="1" href="about:blank#fn-2-2a8ca1828c5a18d0" class="footnote-link" target="_self" rel="noopener nofollow">[2]</a>分别是：科创板、北交所等新市场权益投资（46%），房地产信托投资基金 REITs（23%），包括可交易数字化艺术品等数字化交易资产（23%）、结构化衍生品（20%）<br>
+<img alt="Pasted image 20250719215221.png" src="文件/2025-07广发/_资源/pasted-image-20250719215221.png"><br>
+<img alt="Pasted image 20250719214741.png" src="文件/2025-07广发/_资源/pasted-image-20250719214741.png"><br>
+<img alt="Pasted image 20250719215559.png" src="文件/2025-07广发/_资源/pasted-image-20250719215559.png">
+
+<br>
+交互方式上，年轻一代对数字化接受程度更高，私行应充分利用数字化渠道，并在复杂场景人机协同。
+即使是面对客户旅程中较为复杂的环节，比如综合需求沟通、获取资产配置及投资建 议等，仍有二到三成年轻一代高净值客户偏好数字化主导的模式，选择人工主导模式的年轻一代客群占比不到四成。
+
+<br>
+对于年轻一代中的家族二代群体，近六成有财富继承需求。无论是否承袭家业，二代客群均期待私行提供继承资产的长期投资理财服务。
+
+<br>
+高达81%的财富继承人计划在继承财富后一到两年内更换其父母的财富管理机构。<br>
+这部分风险偏好较高的年轻一代可能会更加偏好券商财富管理。
+
+<br><br><br>在技术发展的背景下，人类顾问的角色发生了转换，技术将顾问从耗时巨大的行政和事务性工作中解放出来——研究显示，这些任务可能占据顾问高达70%的时间 。这使得他们能够专注于提供机器无法替代的高价值服务：<br>
+<br>复杂规划：整合投资、税务、法律、信托和传承规划，为客户提供覆盖个人、家庭乃至企业与社会影响的整体解决方案 。 &nbsp;<br>
+
+<br>行为辅导：在市场剧烈波动时，提供理性的分析和情感支持，帮助客户克服非理性决策的冲动，坚持长期投资策略。<br>
+
+<br>建立信任：通过深度沟通和共情，理解客户内心深处的目标和担忧，建立超越交易的信任关系
+<br><br><br>2016年，广发证券在业内率先推出了名为“贝塔牛”的智能投顾产品，成为国内券商在该领域的早期探索者之一 。对“贝塔牛”的功能定位进行深入分析可以发现，其本质更接近一个“机器人推荐引擎”（Robo-recommender），而非严格意义上提供全权委托、个性化资产配置的“机器人顾问”（Robo-advisor），例如美国市场上的Betterment 。<br><br>当前，广发证券所有对客服务的数字化核心是其旗舰应用——“易淘金”App。这是一个为近3,000万用户提供服务的全流程陪伴式财富管理平台 ，集成了从开户、行情、交易到理财、资讯、投顾等一系列综合性金融服务 。<br>但是尽管易淘金APP中的很多的功能名称中带有“智能”或“AI”的标签，但其功能本质是“辅助”和“赋能”，而非“代理”或“全权管理”。它们是为有能力、有意愿进行自主决策的活跃投资者设计的精密武器库，而非一个可以为客户进行全权委托、管理其全部资产的自动化财富管家。对于高净值客户而言，“易淘金”是他们与广发证券进行数字化交互的主要界面——用于执行交易、审视资产、获取资讯，以及与其专属的人类顾问进行沟通——但平台本身并非其财富管理的决策者。<br><br>广发证券在人工智能领域的最新、也是最具战略意义的布局，集中体现在其对大型语言模型（LLM）的应用上。与早期侧重于零售客户的自动化工具不同，当前阶段的AI战略核心，是利用尖端技术赋能专业人士（包括机构客户和内部投顾），从而间接提升对包括高净值客户在内的所有终端客户的服务质量。<br>2025年初，广发证券成为业内首批将国产开源大模型DeepSeek集成到其对客服务平台中的券商之一 。这一里程碑式的应用落地于其机构客户综合服务平台——“广发智汇” 。 &nbsp;<br>好的，没有问题。根据您的要求，我将为您撰写一段关于“原始股”App的分析文案，并结合与Robinhood的对比来突出其设计的优点。这段文案可以直接嵌入到您的 <a data-href="答辩2" href="文件/2025-07广发/答辩2.html" class="internal-link" target="_self" rel="noopener nofollow">答辩2</a> 笔记中。<br><br><br>2023年推出的“元始股”App是广发证券精准布局Z世代客群的战略性产品。它并非简单地将传统交易软件年轻化，而是从底层逻辑上重构了面向新一代投资者的服务体验。<br>平台设计分析：<br>
+<br>
+视觉语言的精准捕捉：从UI设计上看，“元始股”App采用了深受年轻用户喜爱的深色模式，搭配高饱和度的渐变色和卡片式布局。这种设计不仅营造出强烈的科技感和沉浸感，也使得关键的图表和数据信息更加突出，符合Z世代在数字世界中习惯的视觉逻辑。<br>
+<img alt="1091752979248_.pic_hd.jpg" src="lib/media/1091752979248_.pic_hd.jpg"><img alt="1101752979249_.pic_hd.jpg" src="lib/media/1101752979249_.pic_hd.jpg">
+
+<br>
+从“工具”到“智能伙伴”的进化：与传统券商App的“工具”定位不同，“元始股”的核心是AI驱动的决策辅助。其亮点功能，如利用大数据为用户精准匹配投顾的“问老师”，以及由AIGC平台驱动的“投顾智能助力”，都旨在解决年轻投资者面临的核心痛点：信息过载、缺乏经验、渴望专业指导。它试图在用户产生疑问的每一个环节，都提供一个智能化的解决方案。
+
+<br>与Robinhood对比：更进一步的“陪伴式”服务<br>为了更好地理解“元始股”App的设计理念，我们可以将其与国际上颠覆行业的先行者——Robinhood进行对比。<br><img alt="Pasted image 20250720105317.png" src="lib/media/pasted-image-20250720105317.png"><br>Robinhood的巨大成功在于其极致的“交易简化”。它通过游戏化的界面和零佣金模式，将投资的门槛降至最低，让“买股票”变得像点外卖一样简单。可以说，Robinhood完美地解决了“如何投”的问题，让任何人都能轻松参与市场。<br>然而，“元始股”App的设计在此基础上更进了一步，它不仅要解决“如何投”，更致力于解决“投什么”和“问谁”的深层次问题。如果说Robinhood是给了年轻人一把进入投资世界的“钥匙”，那么“元始股”则是在递上钥匙的同时，还配备了一位AI导航员。<br>通过“问老师”等功能，“元始股”为Z世代投资者提供了在复杂市场中的“专业领航”服务，这恰恰是单纯简化交易的平台所缺失的。它认识到，对于年轻用户而言，降低操作门槛只是第一步，提供可靠、个性化、易于理解的投顾服务，帮助他们建立正确的投资观，才是实现长期用户价值的关键。<br>因此，“元始股”App的设计，是在借鉴了国际领先的年轻化UI趋势之上，融入了具有本土特色和券商专业优势的AI投顾服务，从而打造出一个更符合当下中国年轻投资者需求的、有温度的智能投资平台。<br><br>JP Morgan在langchain大会上最近发布的名为D.A.V.I.D的AI Agent。<br>
+D.A.V.I.D采用多代理架构，设计清晰简洁。<br><img alt="Pasted image 20250720095112.png" src="文件/2025-07广发/_资源/pasted-image-20250720095112.png"><br>
+监督代理 (Supervisor Agent)<br>
+<br>角色：整个系统的“协调者”或“大脑”。
+<br>功能：它负责接收用户的自然语言提问，然后分析问题并制定一个解决计划。根据问题的性质，它会决定调用下面哪个专业代理来完成任务。
+<br>特点：为了确保答案的准确性和可靠性，系统中设计了“人在回路”（Human-in-the-loop）的路径进行审核。此外，该代理还具备长期记忆能力。
+<br>结构化数据代理 (Structured Data Agent)<br>
+<br>角色：数据库专家。
+<br>功能：当需要从数据库中查询信息时，这个代理会将用户的自然语言问题转换成SQL查询语句，从结构化数据库中检索答案，然后将结果交给大语言模型（LLM）生成最终的回复。
+<br>非结构化数据代理 (Unstructured Data Agent)<br>
+<br>角色：文档处理专家。
+<br>功能：这是一个基于RAG（检索增强生成）技术的代理。它使用向量数据库来存储和搜索大量的文档（如报告、PDF等），找到与问题最相关的信息片段，然后利用大语言模型进行总结，生成摘要。
+<br>分析代理 (Analytics Agent)<br>
+<br>角色：工具调用者。
+<br>功能：这是一个ReAct（Reasoning and Acting）代理，它被授权可以访问并使用公司内部的API作为工具来执行特定任务或进行数据分析。
+<br>“Ask David”的核心创新在于其多智能体系统架构。该架构包含一个负责协调工作流程以提高效率的主智能体，以及多个专业化的子智能体。例如，数据集成智能体处理来自不同结构化来源的信息，而非结构化数据智能体从基于文本的资料中提取洞察。分析智能体负责生成可视化和可操作的推荐。通过结合这些角色，该系统能够提供全面的分析，并整合多种数据形式，无缝地提供综合性回复。<br>这种协作的基于代理的结构使人工智能工具能够快速有效地综合复杂信息——这远非单个模型单独所能实现。因此，专业人士和普通用户都能从其金融问题的统一、富有洞察力的答案中受益。<br><br>另类投资在高净值个人（HNWIs）的战略性财富管理中扮演着重要角色。&nbsp;由于他们拥有雄厚的财力，HNWIs能够投入大量资金，承受较长的投资周期，并承担更高的风险，从而从另类投资中获得更多利益。<br>传统的投资组合，如股票、债券和现金，可能容易受到市场波动和经济衰退的影响。&nbsp;对于HNWIs来说，将资金投入另类投资可以帮助他们将风险分散到不受传统市场力量影响的不同资产类别中，从而实现投资组合的稳健多样化。<br>这种独特的特性使得另类投资在市场动荡时期尤为宝贵，因为它们有助于稳定整体投资组合的表现。<br><br><img alt="Pasted image 20250720102928.png" src="文件/2025-07广发/_资源/pasted-image-20250720102928.png"><br><img alt="Pasted image 20250720103028.png" src="文件/2025-07广发/_资源/pasted-image-20250720103028.png"><br><br>没找到图，字长可以不看<br><br>
+<br>核心概念：这不是一个标准的股票或债券，而是一个由金融机构（如券商）定制的、与特定资产（如中证500指数）挂钩的投资协议。它的收益不固定，而是取决于挂钩资产在未来一段时间内的表现是否触及某些预设的条件。<br>
+
+<br>运作方式（以雪球为例）：
+
+<br>敲出 (Knock-Out)：如果挂钩的指数在观察期内上涨到某个预设点（比如初始价的103%），产品立即终止，投资者获得一个较高的、固定的年化收益（比如15%）。这是最理想的情况。
+<br>敲入 (Knock-In)：如果在观察期内指数下跌到某个预设点（比如初始价的80%），“敲入”事件被触发。这时产品的性质发生改变，投资者开始承担与指数下跌相应的风险。
+<br>到期情况：如果产品到期时，既没有敲出也没有敲入，投资者通常能获得一个不错的票息收益。但如果已经发生“敲入”且到期时指数仍低于初始价，投资者将承担实际的亏损。
+
+
+<br>投资逻辑/吸引力：
+
+<br>在震荡市中获取超额收益：在市场不上不下、窄幅波动的行情中，传统的股票投资很难赚钱，而雪球结构只要不发生极端下跌，就有可能提供远高于固收产品的票息。
+<br>满足了投资者“既想要高收益，又希望有一定安全垫”的心理。
+
+
+<br>核心风险：
+
+<br>本金亏损风险：一旦发生敲入，它就不再是“保本”产品，投资者可能面临重大本金损失。
+<br>复杂性风险：产品结构复杂，普通投资者很难完全理解其风险收益特征。
+
+
 <br><br><br>
-<br><a data-href="_看板-金融100词" href="知识/fin/ow/_看板-金融100词.html" class="internal-link" target="_self" rel="noopener nofollow">_看板-金融100词</a>
+<br>核心概念：指由发展中国家（如巴西、土耳其、印尼等）的政府或企业发行的债券。投资者借钱给这些实体，换取利息和到期还本的承诺。<br>
+
+<br>运作方式：和普通债券一样，投资者购买债券，定期获得利息（票息），并在债券到期时收回本金。<br>
+
+<br>投资逻辑/吸引力：
+
+<br>高收益率 (High Yield)：由于新兴市场的经济和政治风险相对较高，为了吸引投资者，它们必须提供比发达国家（如美国、德国）高得多的利息。这是其最核心的吸引力。
+<br>分散化：其经济周期有时与发达国家不同，可以为投资组合提供一定的风险分散效果。
+<br>增长潜力：投资于高增长经济体，可能分享其发展红利。
+
+
+<br>核心风险：
+
+<br>信用风险：发行方（国家或企业）违约不还钱的风险。
+<br>政治与经济风险：国家政局不稳、经济政策突变等。
+<br>汇率风险：新兴市场国家的货币可能大幅贬值，导致换回本国货币时产生汇兑损失。
+
+
+<br><br><br>
+<br>核心概念：管理人的管理人基金。投资者不是直接投资于某个基金经理，而是投资于一个“超级管理人”。这个超级管理人的唯一工作，就是挑选、评估并管理一组优秀的基金经理。<br>
+
+<br>运作方式：MoM的基金经理会进行大量的尽职调查，在全市场寻找最顶尖的基金经理，然后将资金以委托的形式分配给这些选中的经理去管理不同的子账户。MoM经理会持续监控这些子账户的表现，并动态调整。<br>
+
+<br>投资逻辑/吸引力：
+
+<br>专业筛选：让最专业的人去帮你挑选最专业的基金经理，解决了普通投资者“选基难”的问题。
+<br>风格分散：可以同时配置多种不同投资风格的基金经理，实现策略上的分散。
+<br>接触顶级资源：可能投到一些不对外开放的、顶级的私募管理人。
+
+
+<br>核心风险：
+
+<br>双重收费 (Double Fees)：投资者既要支付MoM管理人的费用，也要承担底层基金经理的管理费，整体费率偏高。
+
+
+<br><br><br>
+<br>核心概念：基金中的基金。这种基金不直接投资股票或债券，它的投资标的是其他的基金。<br>
+
+<br>运作方式：FoF的基金经理通过购买一篮子的不同基金（股票基金、债券基金、商品基金等），来构建一个符合特定风险收益目标的投资组合。<br>
+
+<br>投资逻辑/吸引力：
+
+<br>一站式资产配置：投资者只需购买一只FoF，就能轻松实现跨资产类别、跨市场的分散投资，非常便捷。
+<br>风险平滑：通过组合投资，平滑单一基金或单一资产的波动，追求更稳健的回报。
+
+
+<br>核心风险：
+
+<br>双重收费：与MoM类似，存在双重收费问题。
+<br>业绩平庸化：由于是组合的平均表现，FoF很难获得爆发性的超高收益。
+
+
+<br>MoM vs. FoF 的细微区别：MoM更侧重于“选人”（挑选基金经理），FoF更侧重于“选产品”（挑选现成的基金）。MoM的控制力更强，可以直接管理子账户。<br>
+
+<br><br><br>
+<br>核心概念：指在投资决策过程中，除了传统的财务指标外，还充分整合了环境（Environment）、社会（Social）和公司治理（Governance）三大非财务因素的资产。<br>
+
+<br>运作方式：通过购买符合ESG评价体系的公司的股票、债券，或直接投资于ESG主题基金。例如，投资那些致力于碳中和、员工福利好、股权结构透明的公司。<br>
+
+<br>投资逻辑/吸引力：
+
+<br>价值观投资：满足投资者（尤其是年轻一代）希望“用投资让世界更美好”的愿望。
+<br>长期风险管理：普遍认为，ESG表现好的公司通常管理更规范，能更好地应对未来的监管、环境和社会风险，因此具有更强的长期韧性。
+<br>品牌与声誉：投资于ESG公司可以带来声誉上的正面效应。
+
+
+<br>核心风险：
+
+<br>“漂绿”风险 (Greenwashing)：公司可能只是口头上宣传ESG，但实际行动不符。
+<br>标准不一：全球对于ESG的评级标准尚未完全统一。
+<br>短期业绩可能承压：在某些时期，高ESG评分的公司表现可能会弱于传统行业（如能源、矿业）。
+
+
+<br><br><br><br>
 <br>
-]]></description><link>知识/fin/ow/100词.html</link><guid isPermaLink="false">知识/fin/ow/100词.md</guid><pubDate>Mon, 07 Jul 2025 02:21:38 GMT</pubDate></item><item><title><![CDATA[风险]]></title><description><![CDATA[ 
- <br>2025-07-14 10:27<br><br>缘起问题 (The Originating Question)
-这个知识点，是为了回答看板上的哪个核心问题而诞生的？
-<br><a data-href="_看板-金融100词" href="知识/fin/ow/_看板-金融100词.html" class="internal-link" target="_self" rel="noopener nofollow">_看板-金融100词</a><br><br><br>探索摘要 (Research Summary)
-在寻找答案的过程中，你发现了哪些关键的资料、数据或观点？（可以放链接）
-<br><a data-href="金融中的风险发展脉络" href="_resources/ai生成笔记/金融中的风险发展脉络.html" class="internal-link" target="_self" rel="noopener nofollow">金融中的风险发展脉络</a><br>
-<a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Financial_risk" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Financial_risk" target="_blank">Financial risk - Wikipedia</a><br><br><br>核心内化 (Core Internalization)
-这是笔记的核心。用你自己的话，清晰、简洁地阐述你对这个知识点的理解。
-<br><br><br><br>17世纪<a data-href="概率论" href="概率论" class="internal-link" target="_self" rel="noopener nofollow">概率论</a>的诞生，将风险转为一个可以被精确测量和计算的科学对象。<br>概率论的诞生
-17世纪中叶法国数学家帕斯卡和费马之间的一系列通信奠定了现代概率论基础。<br>
-他们围绕一个著名的“分赌注问题”（Problem of Points）展开讨论，成功地将机会游戏中的不确定性问题转化为严谨的数学问题。 
-<br>概率论引入了<a data-href="期望值" href="期望值" class="internal-link" target="_self" rel="noopener nofollow">期望值</a>的概念，通过将每个可能结果的价值与其出现的概率相乘后求和，为在不确定性下进行理性决策提供了第一个量化的标准。<br><br>纯粹的期望值在解释人类真实行为时有局限性，引出了效用理论<br><a data-href="圣彼得堡悖论" href="圣彼得堡悖论.html" class="internal-link" target="_self" rel="noopener nofollow">圣彼得堡悖论</a><br>圣彼得堡悖论描述了一个看似简单的游戏：不断投掷一枚硬币，直到出现正面为止。<br>如果第一次就出现正面，你得到2元；如果第二次才出现，你得到4元；第三次得到8元，以此类推，第 n 次出现正面则得到 2n 元。<br>问题是：你愿意花多少钱来参加这个游戏？<br>从数学上看，这个游戏的期望收益是无限的：=1​×2+41​×4+81​×8+⋯=1+1+1+⋯=∞<br>按照期望值理论，一个理性的人应该愿意支付任何有限的金额来参与。<br>然而，现实中，绝大多数人只愿意支付一个很小的数额，比如几十元 。<br>这个矛盾表明，财富的价值并非与其绝对金额成正比，人们在做决策时考虑的不仅仅是金钱本身。<br><a data-href="1738" href="1738" class="internal-link" target="_self" rel="noopener nofollow">1738</a>年，<a data-href="伯努利" href="伯努利.html" class="internal-link" target="_self" rel="noopener nofollow">伯努利</a>在其论文《关于风险度量的新理论的阐述》中开创性地引入了<a data-href="效用" href="效用" class="internal-link" target="_self" rel="noopener nofollow">效用</a>的概念。<br>伯努利指出财富的增加所带来的额外效用是递减的。<br>
-数学的角度来说，效用函数是财富x的一个凹函数，其一阶导为正，二阶导数为负。<br>伯努利的工作引入了风险规避的概念：对于一个期望收益为0的公平赌局，一个风险规避者会拒绝参与。因为损失一定金钱所带来的痛苦（效用⬇️）大于赢得同等金钱所带来的快乐（效用⬆️）<br><br><br>在金融风险完全被数理化之前，需要厘清一个问题：经济活动中所有形式的“未知”都是同一种东西吗？它们都可以被概率论所捕捉吗？<br><br>20世纪初的经济学家面临一个理论难题：在完全竞争的市场中，理论上所有超额利润都应因竞争而被消除，但现实中，利润却持续存在。<br>这部分利润从哪来的？<br><br>芝加哥大学经济学家弗兰克·<a data-href="奈特" href="奈特" class="internal-link" target="_self" rel="noopener nofollow">奈特</a>在其<a data-href="1921" href="1921" class="internal-link" target="_self" rel="noopener nofollow">1921</a>年著作<a data-href="《风险、不确定性与利润》" href="《风险、不确定性与利润》" class="internal-link" target="_self" rel="noopener nofollow">《风险、不确定性与利润》</a>中，通过严谨的概念辨析和经济学逻辑推理，对“未知”进行了系统性的划分。<br>同年，凯恩斯也在其<a data-href="《概率论》" href="《概率论》" class="internal-link" target="_self" rel="noopener nofollow">《概率论》</a>中探讨了类似的思想，认为概率并非总是可以被客观度量。<br><br><a data-href="奈特" href="奈特" class="internal-link" target="_self" rel="noopener nofollow">奈特</a>做出了一个影响深远的关键区分，他将“未知”一分为二：<br>
-<br>
-风险：指结果未知，但其概率分布是已知的、可度量的。
-
-<br>这种不确定性可以通过统计来量化
-<br>典型的例子是掷骰子
-<br>因为这种风险是可以计算的，所以它可以通过保险、对冲等市场机制来分散和转移，其承担者不会获得额外的利润。
-
-
-<br>
-不确定性：指结果未知，且其概率分布也是未知的、不可度量的。
-
-<br>这种情况源于独特的、不可重复的、结构性的变化，无法进行统计或概率计算
-<br>商业决策面对的正式这种真正的不确定性
-<br>奈特认为，企业家的利润正是他们凭才能去承担这种“不确定性”而获得的回报
-
-
-<br>二者的区别：风险与不确定性的核心区别在于其可度量性**。<br>风险描述的是一个结果未知，但其所有可能的结果和对应的概率分布都是已知的、稳定的系统。这就像在一场规则明确的牌局中，你可以精确计算出下一张牌的概率。因此，风险可以通过统计分析和概率模型进行管理和优化。<br>不确定性则描述了一个结果未知，且其概率分布也完全未知的系统，通常因为系统的底层规则正在发生根本性改变。这好比在一场规则随时可能被修改的牌局中做决策。此时，历史数据失去参考价值，你无法计算概率，必须依赖战略判断、洞察力和适应性来导航。<br>简而言之：风险是系统内的未知，而不确定性是关于系统本身的未知。<br><br>奈特的区分对经济和金融思想产生了根本性的影响。<br>首先，它为“利润”的存在提供了合理的解释，并深刻揭示了企业家精神的本质——不是简单地承担风险，而是应对不确定性。<br>其次，这一理论为金融风险管理划定了一条重要的认知边界。<br>它揭示了所有量化风险模型（如后来的MPT、VaR等）的固有局限性。<br>这些模型本质上处理的是奈特所定义的“风险”，即假定概率分布已知或可估计。<br>而对于真正的、结构性的“奈特式不确定性”（Knightian Uncertainty），例如重大的技术变革、范式转移或前所未有的金融危机，这些模型是无能为力的。<br>2008年金融危机等事件，很大程度上就是这种不可量化的“不确定性”的体现，而非仅仅是模型计算失误的“风险”事件 。<br>“奈特式不确定性”至今仍是高级经济学和金融学中的重要概念，它提醒着理论家和实践者，数学模型的优雅并不能覆盖现实世界的所有复杂性。<br>在面对“未知的未知”（unknown unknowns）时，需要的是稳健性（robustness）和适应性，而非单一的优化计算 <br><br>风险量化的第一次革命<br>奈特在哲学上区分了风险和不确定性之后，金融领域需要科学的方法来管理可度量的风险。<br>
-哈里·<a data-href="马科维茨" href="马科维茨" class="internal-link" target="_self" rel="noopener nofollow">马科维茨</a>完成了这个问题<br><br><br>实践应用 (Practical Application)
-这个知识点具体是如何应用到你的项目中的？解决了什么实际问题？
-<br><br><br><br><br><a data-tooltip-position="top" aria-label="知识/fin/ow/风险.md" data-href="知识/fin/ow/风险.md" href="知识/fin/ow/风险.html" class="internal-link" target="_self" rel="noopener nofollow">风险</a>: <br><a data-tooltip-position="top" aria-label="知识/fin/ow/_看板-金融100词.md" data-href="知识/fin/ow/_看板-金融100词.md" href="知识/fin/ow/_看板-金融100词.html" class="internal-link" target="_self" rel="noopener nofollow">_看板-金融100词</a><br><a data-tooltip-position="top" aria-label="_resources/AI生成笔记/金融中的风险发展脉络.md" data-href="_resources/AI生成笔记/金融中的风险发展脉络.md" href="_resources/ai生成笔记/金融中的风险发展脉络.html" class="internal-link" target="_self" rel="noopener nofollow">金融中的风险发展脉络</a><br><a data-tooltip-position="top" aria-label="概率论" data-href="概率论" href="概率论" class="internal-link" target="_self" rel="noopener nofollow">概率论</a><br><a data-tooltip-position="top" aria-label="期望值" data-href="期望值" href="期望值" class="internal-link" target="_self" rel="noopener nofollow">期望值</a><br><a data-tooltip-position="top" aria-label="圣彼得堡悖论.md" data-href="圣彼得堡悖论.md" href="圣彼得堡悖论.html" class="internal-link" target="_self" rel="noopener nofollow">圣彼得堡悖论</a><br><a data-tooltip-position="top" aria-label="1738" data-href="1738" href="1738" class="internal-link" target="_self" rel="noopener nofollow">1738</a><br><a data-tooltip-position="top" aria-label="伯努利.md" data-href="伯努利.md" href="伯努利.html" class="internal-link" target="_self" rel="noopener nofollow">伯努利</a><br><a data-tooltip-position="top" aria-label="效用" data-href="效用" href="效用" class="internal-link" target="_self" rel="noopener nofollow">效用</a><br><a data-tooltip-position="top" aria-label="奈特" data-href="奈特" href="奈特" class="internal-link" target="_self" rel="noopener nofollow">奈特</a><br><a data-tooltip-position="top" aria-label="1921" data-href="1921" href="1921" class="internal-link" target="_self" rel="noopener nofollow">1921</a><br><a data-tooltip-position="top" aria-label="《风险、不确定性与利润》" data-href="《风险、不确定性与利润》" href="《风险、不确定性与利润》" class="internal-link" target="_self" rel="noopener nofollow">《风险、不确定性与利润》</a><br><a data-tooltip-position="top" aria-label="《概率论》" data-href="《概率论》" href="《概率论》" class="internal-link" target="_self" rel="noopener nofollow">《概率论》</a><br><a data-tooltip-position="top" aria-label="奈特" data-href="奈特" href="奈特" class="internal-link" target="_self" rel="noopener nofollow">奈特</a><br><a data-tooltip-position="top" aria-label="现代投资组合理论" data-href="现代投资组合理论" href="现代投资组合理论" class="internal-link" target="_self" rel="noopener nofollow">现代投资组合理论</a><br><a data-tooltip-position="top" aria-label="马科维茨" data-href="马科维茨" href="马科维茨" class="internal-link" target="_self" rel="noopener nofollow">马科维茨</a><br><a data-tooltip-position="top" aria-label="_resources/AI生成笔记/金融中的风险发展脉络.md" data-href="_resources/AI生成笔记/金融中的风险发展脉络.md" href="_resources/ai生成笔记/金融中的风险发展脉络.html" class="internal-link" target="_self" rel="noopener nofollow">金融中的风险发展脉络</a><br><br><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Financial_risk" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Financial_risk" target="_blank">Financial risk - Wikipedia</a><br><br>
-<br>
-<br><a data-href="金融中的风险发展脉络" href="_resources/ai生成笔记/金融中的风险发展脉络.html" class="internal-link" target="_self" rel="noopener nofollow">金融中的风险发展脉络</a><a href="about:blank#fnref-1-d2f53faf2c99b93d" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
-]]></description><link>知识/fin/ow/风险.html</link><guid isPermaLink="false">知识/fin/ow/风险.md</guid><pubDate>Mon, 14 Jul 2025 13:12:12 GMT</pubDate></item><item><title><![CDATA[价值]]></title><description><![CDATA[ 
- <br>2025-07-07 10:33<br><br>缘起问题 (The Originating Question)
-这个知识点，是为了回答看板上的哪个核心问题而诞生的？
-<br><a data-href="_看板-金融100词" href="知识/fin/ow/_看板-金融100词.html" class="internal-link" target="_self" rel="noopener nofollow">_看板-金融100词</a><br><br>探索摘要 (Research Summary)
-在寻找答案的过程中，你发现了哪些关键的资料、数据或观点？（可以放链接）
-<br><br>核心内化 (Core Internalization)
-这是笔记的核心。用你自己的话，清晰、简洁地阐述你对这个知识点的理解。
-<br><br><br>商品和服务的<a data-href="价值" href="知识/fin/ow/价值.html" class="internal-link" target="_self" rel="noopener nofollow">价值</a>一直是一个很难定义的问题。<br>经济学家尝试估计商品对个人的价值，并将这一定义扩展到可以交换的商品。<br>
-由此产生了<a data-href="使用价值" href="使用价值" class="internal-link" target="_self" rel="noopener nofollow">使用价值</a>和<a data-href="交换价值" href="交换价值" class="internal-link" target="_self" rel="noopener nofollow">交换价值</a>的概念。<br><br>认为商品或服务的交换价值由生产其所需要的"社会必要劳动“总量决定<br>定义：<br>价值是指生产一种可市场化的商品所需的<a data-href="社会必要劳动量" href="社会必要劳动量" class="internal-link" target="_self" rel="noopener nofollow">社会必要劳动量</a>。<br>劳动价值了在18、19世纪占据主导地位，因为当时的经济形态以农业和手工业为主。财富的创造过程直观的表现为<a data-href="劳动" href="劳动" class="internal-link" target="_self" rel="noopener nofollow">劳动</a>对原材料的改造。<br><br>边际革命象征着经济学思想史上的一次范式转移——从客观的、供给侧的价值理论转向主观的、需求侧的理论<br>定义：<br><br>
-<br><a data-href="边际效用递减法则" href="边际效用递减法则" class="internal-link" target="_self" rel="noopener nofollow">边际效用递减法则</a>
-<br>价值是主观且前瞻的：价值并非商品基于其生产历史而具有的内在属性，而是个体对该商品未来满足其需求能力的主观判断。
-<br>等边际原则：理性的消费者会将其收入在不同商品间进行分配，以使得花费在每一种商品上的最后一元钱所带来的边际效用都相等。这样，消费者的总效用便能达到最大化 。该原则为现代需求曲线理论提供了微观基础。
-<br><br><a data-href="价值悖论" href="价值悖论" class="internal-link" target="_self" rel="noopener nofollow">价值悖论</a>也称为钻石-水悖论。尽管水在整体上比钻石对生存更有用，但是钻石在市场上的价格却更高。<br>边际主义者指出，悖论的关键不在于比较水和钻石的总<a data-href="效用" href="效用" class="internal-link" target="_self" rel="noopener nofollow">效用</a>，而是要比较<a data-href="边际效用" href="边际效用" class="internal-link" target="_self" rel="noopener nofollow">边际效用</a>。<br><br>在金融中，时间以及不确定性等内容也被赋予了价值<br><br><a data-href="Irving Fisher" href="Irving Fisher" class="internal-link" target="_self" rel="noopener nofollow">Irving Fisher</a>将<a data-href="主观价值" href="主观价值" class="internal-link" target="_self" rel="noopener nofollow">主观价值</a>的理论延伸到了跨期选择的领域。<br>Fisher将资本定义为任何能随时间产生收入流的资产。<br>Fisher得理论建立在两种力量的相互作用之上：<br>
-<br><a data-href="时间偏好" href="时间偏好" class="internal-link" target="_self" rel="noopener nofollow">时间偏好</a>：个体偏好现在而非未来获得收入的主观愿望。可以看作边际效用在时间维度上的体现。
-<br>投资机会：牺牲当前的<a data-href="消费" href="消费" class="internal-link" target="_self" rel="noopener nofollow">消费</a>进行<a data-href="投资" href="投资" class="internal-link" target="_self" rel="noopener nofollow">投资</a>，在未来获得更多收入的客观技术可能性。
-<br>在这两种力量的拉扯中，<a data-href="利率" href="利率" class="internal-link" target="_self" rel="noopener nofollow">利率</a>充当了市场价格的角色，平衡了储蓄者的主观impatience和资本的客观生产率。<br><br>费雪的思想被形式化成<a data-href="货币时间价值" href="货币时间价值" class="internal-link" target="_self" rel="noopener nofollow">货币时间价值</a>(Time Value of Money, TVM)这一数学原则。<br>其核心观点是：今天的一美元比明天的一美元更有价值，因为今天的一美元可以被投资并赚取回报 。 &nbsp;<br>现值（PV）和未来值（FV）的计算公式，清晰地展示了如何使用一个反映资本机会成本的“折现率”，将未来的现金流“折算”回今天的价值 。这是费雪理论在实践中的操作机制。<br><br><a data-href="现金流折现" href="现金流折现" class="internal-link" target="_self" rel="noopener nofollow">现金流折现</a>（Discounted Cash Flow, DCF）模型是费雪原理在资产估值中的直接应用。<br>DCF的核心思想是，一项资产的价值等于其所有预期未来现金流的现值之和 。<br>DCF模型通过明确要求分析师预测未来多年的现金流，将这一思想操作化 。这使得估值在本质上充满了不确定性和主观性——其主观性并非源于对苹果的个人口味偏好，而是源于未来本身是未知的。<br>DCF模型并非一个能输出唯一“正确”答案的计算器。它更像一个分析框架，迫使使用者深入思考影响公司价值的各种驱动因素。<br><br>这一时期的真正革命，是由费雪引领的“预期革命”。它将价值重新定义为预期的函数。古典价值理论是向后看的（基于过去的劳动），新古典价值理论是关注当下的（基于当前的边际效用），而金融价值理论则是根本上向前看的（基于预期的未来现金流）。<br><br>20世纪中叶的“现代金融学”革命。围绕现代金融估值<br><br><a data-href="现代DCF模型" href="现代DCF模型" class="internal-link" target="_self" rel="noopener nofollow">现代DCF模型</a>将一个抽象概念转化为一个实用的分析工具，其主要构成部分包括：<br>
-<br>现金流预测：预测企业在未来一个明确时期内（通常为5-10年）的收入、支出和资本开支。这是一个充满挑战和主观判断的过程 。 &nbsp;<br>
-
-<br>终值（Terminal Value）：在预测期结束后，企业仍会持续经营。终值计算旨在估算预测期之后所有未来现金流的现值总和。它通常占到总估值的很大一部分，其计算依赖于对企业长期稳定增长率的假设（永续增长法）。 &nbsp;<br>
-
-<br>折现率（WACC）：加权平均资本成本（Weighted Average Cost of Capital, WACC）是现代DCF模型的标准折现率。它综合了股权成本和债务成本，反映了投资于整个企业所面临的综合风险 。 &nbsp;<br>
-
-<br><br>由尤金·法玛（Eugene Fama）提出的有效市场假说（Efficient Market Hypothesis, EMH）认为，在一个有效的市场中，资产价格已充分反映了所有可获得的信息 。 &nbsp;<br>这一假说的直接推论是，投资者不可能通过分析公开信息来持续地“战胜市场”，因为股票的价格在任何时候都接近其“公允价值”。换言之，市场价格本身就是对内在价值的最佳估计 。根据信息反映的程度，EMH又分为弱式、半强式和强式三种形式，分别对应历史价格信息、所有公开信息和所有信息（包括内幕信息）。 &nbsp;<br><br><a data-href="资本资产定价模型" href="资本资产定价模型" class="internal-link" target="_self" rel="noopener nofollow">资本资产定价模型</a>（Capital Asset Pricing Model, CAPM）为股权成本的计算提供了理论基础，而股权成本是WACC的关键输入变量。CAPM将风险与回报的关系形式化，认为一项资产的预期回报等于无风险利率加上对其所承担风险的补偿（风险溢价）。 &nbsp;<br>该模型最核心的洞见在于区分了两种风险：系统性风险和非系统性风险。非系统性风险（公司特有风险）可以通过多元化投资组合来消除，因此市场不会对其提供回报补偿。而系统性风险（市场整体风险）是无法通过分散投资来消除的，投资者必须承担，因此市场会对其提供风险溢价。这一风险由贝塔系数（β）来衡量 。 &nbsp;<br>EMH与CAPM共同构成现代金融学的理论基石。EMH假设价格能有效反映信息，而CAPM则提供了风险如何被定价的模型。CAPM的推导本身就建立在市场有效、所有投资者都持有“市场组合”的假设之上 。 &nbsp;<br><br>这些理论最终汇集成现代金融分析师所使用的核心框架：<br>
-<br>内在价值（Intrinsic Value）：通过基本面分析（最常用的是DCF模型）得出的对公司“真实”价值的估计。它代表了一家公司应该具有的价值 。 &nbsp;<br>
-
-<br>市场价值（Market Value）：资产在市场上由供求关系决定的当前交易价格 。
-<br><br>行为金融学认为，人类心理并非市场的微小摩擦，而是驱动市场和价值的核心力量<br><br>远在现代行为金融学兴起之前，<a data-href="凯恩斯" href="凯恩斯" class="internal-link" target="_self" rel="noopener nofollow">凯恩斯</a>就对金融市场提出了深刻的心理学批判 。他认为，专业投资者并不会专注于估算资产的“基本价值”，而是将才智用于“预测一般人预期的未来一般人的看法”。 &nbsp;<br>这个著名的“选美竞赛”（Beauty Contest）比喻揭示了，资产价格可能会脱离基本面，被一种关于群体心理的自我指涉式投机所驱动，从而导致泡沫和崩溃 。凯恩斯本人成功的投资策略正是建立在逆向思维之上：在市场极度悲观时买入，在极度乐观时卖出。这种做法与有效市场假说背道而驰 。 &nbsp;<br><br>行为金融学的正式出现，标志着经济学理论开始植根于经验性的心理学发现，而非先验的理性假设 。它通过论证心理偏差会导致系统性的、可预测的判断错误，从而使价格以非随机的方式偏离基本价值，直接挑战了有效市场假说 。 &nbsp;<br><br>
-<br>过度反应与反应不足：投资者倾向于对戏剧性的、意外的消息做出过度反应，而对长期的、基本面的变化反应不足，这导致了股价的动量（momentum）和反转（reversal）效应 。 &nbsp;<br>
-
-<br>羊群行为（Herd Behavior）：个体倾向于跟随大群体的行为，即使这些行为是非理性的。这会放大价格波动，催生市场泡沫 。 &nbsp;<br>
-
-<br>损失厌恶（Loss Aversion）：人们感受亏损的痛苦程度远大于获得同等收益的快乐。这会导致投资者过久地持有亏损的股票，而过早地卖出盈利的股票 。 &nbsp;<br>
-
-<br>过度自信与代表性启发：投资者可能对自己的分析能力过度自信，并将近期的趋势无限外推至未来（代表性启发），这是形成泡沫的关键心理因素 。
-<br><br>行为金融学将持续存在的市场异象（anomalies）视为反驳EMH的经验证据。这些是在理性有效市场中本不应存在的模式。<br>
-<br>价值效应（Value Effect）：“价值股”（低市盈率、低市净率）长期回报优于“成长股”。 &nbsp;<br>
-
-<br>小盘股效应（Small-Firm Effect）：小市值公司的股票长期回报优于大市值公司 。 &nbsp;<br>
-
-<br>动量效应（Momentum Effect）：短期内，过去表现优异的股票会继续表现优异，这与随机游走假说相悖 。 &nbsp;<br>
-
-<br>一月效应（January Effect）：股票在一月份的回报通常高于其他月份，可能与年底的税收亏损抛售有关 。
-<br><br>面对这些挑战，EMH的支持者，如伯顿·麦基尔（Burton Malkiel），也提出了有力的反驳。<br>
-<br>统计显著性 vs. 经济显著性：他们认为，一些异象虽然在统计上是显著的，但在经济上并不显著。也就是说，在扣除交易成本后，这些微小的模式并不足以让投资者获得超额利润 。 &nbsp;<br>
-
-<br>数据挖掘与自我毁灭：许多所谓的“异象”可能只是数据挖掘的偶然结果。而任何真实存在的、可利用的模式，一旦被公之于众，就会被套利行为所消除，从而“自我毁灭”。 &nbsp;<br>
-
-<br>基于风险的解释：<a data-href="价值效应" href="价值效应" class="internal-link" target="_self" rel="noopener nofollow">价值效应</a>和<a data-href="小盘股效应" href="小盘股效应" class="internal-link" target="_self" rel="noopener nofollow">小盘股效应</a>等异象，可能并非非理性的证据，而只是反映了标准CAPM模型未能捕捉到的其他风险因素
-<br><br>理性主义范式（EMH/CAPM）最初是默认的权威理论。然而，行为金融学通过不断积累心理学实验证据和市场异象的实证研究，成功地转移了举证责任。如今，理论家们不再能简单地假设市场是理性的，而必须面对大量反面证据为理性辩护。凯恩斯基于敏锐观察提出了早期的定性批判 。随后，学者们记录了大量统计上显著的异象 。与此同时，心理学家卡尼曼和特沃斯基为人类为何会以可预测的方式表现出非理性行为提供了坚实的理论基础 。市场实证数据与心理学理论的结合，创造了一个强大的替代性范式，迫使EMH的捍卫者们不得不论证这些异象要么是虚假的，要么是无利可图的，要么就是伪装成异象的理性风险溢价 。 &nbsp;<br>这场辩论实际上重新开启了价值理论中最古老的一对矛盾：客观的基本价值与主观的市场价格。EMH的核心论点是，在一个有效市场中，主观的“市场价格”就是对客观“基本价值”的最佳反映，两者趋于一致 。而行为金融学则认为，心理力量导致主观的市场价格系统性地偏离基本价值，从而产生泡沫和崩溃 。这重新打开了古典经济学家所识别的“自然价格”与“市场价格”之间的鸿沟，但原因已截然不同。对于古典经济学家而言，偏离是暂时的，由供需波动引起 ；而对于行为金融学家而言，偏离可以是巨大且持久的，由根深蒂固的心理偏见所驱动 。<br><br>价值是指一项资产、商品或服务的货币价值、物质价值或评估价值。<br>价值与<a data-href="股东价值" href="股东价值" class="internal-link" target="_self" rel="noopener nofollow">股东价值</a>、<a data-href="企业价值" href="企业价值" class="internal-link" target="_self" rel="noopener nofollow">企业价值</a>、<a data-href="公允价值" href="公允价值" class="internal-link" target="_self" rel="noopener nofollow">公允价值</a>和<a data-href="市场价值" href="市场价值" class="internal-link" target="_self" rel="noopener nofollow">市场价值</a>等诸多概念相关联。<br>对公司或资产计算和分配价值的过程叫做<a data-href="估值" href="估值" class="internal-link" target="_self" rel="noopener nofollow">估值</a>。<br>以下是金融和股票市场中“价值”一次的一些常见用法。<br>市值<br>
-股票市场参与者所认可的价值。<br>在股票估值中，市值(Market Value)通常与市价总值(Market Cap)同义。<br>
-市价总值(Market Cap)是股票价格乘以总发行股数。<br>账面价值<br>
-根据公司财务报表或会计帐簿所体现的公司价值。<br>帐面价值(Book Value)代表了若公司清算或出售所有资产并偿还所有负债后剩余的总金额。<br><br><br>实践应用 (Practical Application)
-这个知识点具体是如何应用到你的项目中的？解决了什么实际问题？
-<br><br><br><br><br><a data-tooltip-position="top" aria-label="知识/fin/ow/价值.md" data-href="知识/fin/ow/价值.md" href="知识/fin/ow/价值.html" class="internal-link" target="_self" rel="noopener nofollow">价值</a>: <br><a data-tooltip-position="top" aria-label="知识/fin/ow/_看板-金融100词.md" data-href="知识/fin/ow/_看板-金融100词.md" href="知识/fin/ow/_看板-金融100词.html" class="internal-link" target="_self" rel="noopener nofollow">_看板-金融100词</a><br><a data-tooltip-position="top" aria-label="知识/fin/ow/价值.md" data-href="知识/fin/ow/价值.md" href="知识/fin/ow/价值.html" class="internal-link" target="_self" rel="noopener nofollow">价值</a><br><a data-tooltip-position="top" aria-label="使用价值" data-href="使用价值" href="使用价值" class="internal-link" target="_self" rel="noopener nofollow">使用价值</a><br><a data-tooltip-position="top" aria-label="交换价值" data-href="交换价值" href="交换价值" class="internal-link" target="_self" rel="noopener nofollow">交换价值</a><br><a data-tooltip-position="top" aria-label="劳动价值论" data-href="劳动价值论" href="劳动价值论" class="internal-link" target="_self" rel="noopener nofollow">劳动价值论</a><br><a data-tooltip-position="top" aria-label="社会必要劳动量" data-href="社会必要劳动量" href="社会必要劳动量" class="internal-link" target="_self" rel="noopener nofollow">社会必要劳动量</a><br><a data-tooltip-position="top" aria-label="劳动" data-href="劳动" href="劳动" class="internal-link" target="_self" rel="noopener nofollow">劳动</a><br><a data-tooltip-position="top" aria-label="主观价值论" data-href="主观价值论" href="主观价值论" class="internal-link" target="_self" rel="noopener nofollow">主观价值论</a><br><a data-tooltip-position="top" aria-label="边际效用递减法则" data-href="边际效用递减法则" href="边际效用递减法则" class="internal-link" target="_self" rel="noopener nofollow">边际效用递减法则</a><br><a data-tooltip-position="top" aria-label="价值悖论" data-href="价值悖论" href="价值悖论" class="internal-link" target="_self" rel="noopener nofollow">价值悖论</a><br><a data-tooltip-position="top" aria-label="效用" data-href="效用" href="效用" class="internal-link" target="_self" rel="noopener nofollow">效用</a><br><a data-tooltip-position="top" aria-label="边际效用" data-href="边际效用" href="边际效用" class="internal-link" target="_self" rel="noopener nofollow">边际效用</a><br><a data-tooltip-position="top" aria-label="Irving Fisher" data-href="Irving Fisher" href="Irving Fisher" class="internal-link" target="_self" rel="noopener nofollow">Irving Fisher</a><br><a data-tooltip-position="top" aria-label="主观价值" data-href="主观价值" href="主观价值" class="internal-link" target="_self" rel="noopener nofollow">主观价值</a><br><a data-tooltip-position="top" aria-label="时间偏好" data-href="时间偏好" href="时间偏好" class="internal-link" target="_self" rel="noopener nofollow">时间偏好</a><br><a data-tooltip-position="top" aria-label="消费" data-href="消费" href="消费" class="internal-link" target="_self" rel="noopener nofollow">消费</a><br><a data-tooltip-position="top" aria-label="投资" data-href="投资" href="投资" class="internal-link" target="_self" rel="noopener nofollow">投资</a><br><a data-tooltip-position="top" aria-label="利率" data-href="利率" href="利率" class="internal-link" target="_self" rel="noopener nofollow">利率</a><br><a data-tooltip-position="top" aria-label="货币时间价值" data-href="货币时间价值" href="货币时间价值" class="internal-link" target="_self" rel="noopener nofollow">货币时间价值</a><br><a data-tooltip-position="top" aria-label="现金流折现" data-href="现金流折现" href="现金流折现" class="internal-link" target="_self" rel="noopener nofollow">现金流折现</a><br><a data-tooltip-position="top" aria-label="现代DCF模型" data-href="现代DCF模型" href="现代DCF模型" class="internal-link" target="_self" rel="noopener nofollow">现代DCF模型</a><br><a data-tooltip-position="top" aria-label="资本资产定价模型" data-href="资本资产定价模型" href="资本资产定价模型" class="internal-link" target="_self" rel="noopener nofollow">资本资产定价模型</a><br><a data-tooltip-position="top" aria-label="行为金融学" data-href="行为金融学" href="行为金融学" class="internal-link" target="_self" rel="noopener nofollow">行为金融学</a><br><a data-tooltip-position="top" aria-label="选美竞赛" data-href="选美竞赛" href="选美竞赛" class="internal-link" target="_self" rel="noopener nofollow">选美竞赛</a><br><a data-tooltip-position="top" aria-label="凯恩斯" data-href="凯恩斯" href="凯恩斯" class="internal-link" target="_self" rel="noopener nofollow">凯恩斯</a><br><a data-tooltip-position="top" aria-label="价值效应" data-href="价值效应" href="价值效应" class="internal-link" target="_self" rel="noopener nofollow">价值效应</a><br><a data-tooltip-position="top" aria-label="小盘股效应" data-href="小盘股效应" href="小盘股效应" class="internal-link" target="_self" rel="noopener nofollow">小盘股效应</a><br><a data-tooltip-position="top" aria-label="股东价值" data-href="股东价值" href="股东价值" class="internal-link" target="_self" rel="noopener nofollow">股东价值</a><br><a data-tooltip-position="top" aria-label="企业价值" data-href="企业价值" href="企业价值" class="internal-link" target="_self" rel="noopener nofollow">企业价值</a><br><a data-tooltip-position="top" aria-label="公允价值" data-href="公允价值" href="公允价值" class="internal-link" target="_self" rel="noopener nofollow">公允价值</a><br><a data-tooltip-position="top" aria-label="市场价值" data-href="市场价值" href="市场价值" class="internal-link" target="_self" rel="noopener nofollow">市场价值</a><br><a data-tooltip-position="top" aria-label="估值" data-href="估值" href="估值" class="internal-link" target="_self" rel="noopener nofollow">估值</a><br><br>[Value (economics) - Wikipedia](<a rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Value_(economics)" target="_blank">https://en.wikipedia.org/wiki/Value_(economics)</a><br><a data-tooltip-position="top" aria-label="https://www.investopedia.com/terms/v/value.asp" rel="noopener nofollow" class="external-link" href="https://www.investopedia.com/terms/v/value.asp" target="_blank">Value: What It Means in Business and Finance</a><br><a data-tooltip-position="top" aria-label="https://docs.google.com/document/d/e/2PACX-1vScP52XJTiNykZQ-b4YycuDDlfS-8MZkM0iAx6ki3kIx9esa84WTwKWiWKnNVZxl3RBKK05cudwHTch/pub" rel="noopener nofollow" class="external-link" href="https://docs.google.com/document/d/e/2PACX-1vScP52XJTiNykZQ-b4YycuDDlfS-8MZkM0iAx6ki3kIx9esa84WTwKWiWKnNVZxl3RBKK05cudwHTch/pub" target="_blank">经济金融价值概念演变</a><br><a data-tooltip-position="top" aria-label="https://www.econlib.org/library/Enc/bios/Fisher.html#:~:text=Interest rates%2C Fisher postulated%2C result,greater income in the future" rel="noopener nofollow" class="external-link" href="https://www.econlib.org/library/Enc/bios/Fisher.html#:~:text=Interest%20rates%2C%20Fisher%20postulated%2C%20result,greater%20income%20in%20the%20future" target="_blank">Irving Fisher - Econlib</a><br><br><br><br><br>
-<br>
-<br><a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Value_(economics)" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Value_(economics)" target="_blank">Value (economics) - Wikipedia</a><a href="about:blank#fnref-1-d2f53faf2c99b93d" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
-<br><a data-tooltip-position="top" aria-label="https://docs.google.com/document/d/e/2PACX-1vScP52XJTiNykZQ-b4YycuDDlfS-8MZkM0iAx6ki3kIx9esa84WTwKWiWKnNVZxl3RBKK05cudwHTch/pub" rel="noopener nofollow" class="external-link" href="https://docs.google.com/document/d/e/2PACX-1vScP52XJTiNykZQ-b4YycuDDlfS-8MZkM0iAx6ki3kIx9esa84WTwKWiWKnNVZxl3RBKK05cudwHTch/pub" target="_blank">经济金融价值概念演变</a><a href="about:blank#fnref-2-d2f53faf2c99b93d" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a><a href="about:blank#fnref-2-1-d2f53faf2c99b93d" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
-<br><a data-tooltip-position="top" aria-label="https://www.econlib.org/library/Enc/bios/Fisher.html#:~:text=Interest rates%2C Fisher postulated%2C result,greater income in the future" rel="noopener nofollow" class="external-link" href="https://www.econlib.org/library/Enc/bios/Fisher.html#:~:text=Interest%20rates%2C%20Fisher%20postulated%2C%20result,greater%20income%20in%20the%20future" target="_blank">Irving Fisher - Econlib</a><a href="about:blank#fnref-3-d2f53faf2c99b93d" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
-<br><a data-tooltip-position="top" aria-label="https://www.investopedia.com/terms/v/value.asp" rel="noopener nofollow" class="external-link" href="https://www.investopedia.com/terms/v/value.asp" target="_blank">Value: What It Means in Business and Finance</a><a href="about:blank#fnref-4-d2f53faf2c99b93d" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
-]]></description><link>知识/fin/ow/价值.html</link><guid isPermaLink="false">知识/fin/ow/价值.md</guid><pubDate>Sun, 13 Jul 2025 14:08:46 GMT</pubDate></item><item><title><![CDATA[简单逻辑路线]]></title><description><![CDATA[ 
- <br><br>这是所有金融思想的起点，一切都围绕着价值和风险展开。<br>
-<br>货币时间价值 (Time Value of Money, TVM)：这是金融学的第一公理，即今天的钱比未来的钱更值钱 。 &nbsp;
-
-<br>现值 (PV) 和 终值 (FV)：它们是TVM的一体两面。现值是将未来的钱折算到今天值多少钱 ，而 &nbsp;
-  终值是今天的钱在未来会变成多少钱 。 &nbsp;<br>
-
-<br>折现 (Discounting) 和 复利 (Compounding)：这是计算PV和FV的动作。折现是“向后看”，把未来现金流的价值打个折扣算回现在；复利是“向前看”，让本金和利息“利滚利”地增长 。 &nbsp;<br>
-
-<br>折现率 (Discount Rate)：这是连接现在与未来的“桥梁”，也是TVM计算的核心。它的高低决定了未来现金流在今天的价值。<br>
-
-
-
-<br>风险与回报 (Risk and Return)：这是金融学的第二公理，高风险伴随高回报的潜力。
-
-<br>期望回报率 (Expected Return)：对一项投资未来收益的概率加权平均预测。<br>
-
-<br>标准差 (Standard Deviation)：衡量回报率波动性的指标，是量化风险最常用的工具 。 &nbsp;<br>
-
-<br>风险规避 (Risk Aversion)：投资者普遍的心理倾向，即在回报相同的情况下，倾向于选择风险更低（波动性更小）的投资 。<br>
-
-<br>无风险利率 (Rf​)：理论上零风险投资的回报率，是所有风险投资回报的基准 。<br>
-
-<br>风险溢价 (Risk Premium)：投资者因承担额外风险而要求的、超出无风险利率的额外回报 。 &nbsp;<br>
-
-
-
-<br>两大基石的连接点：折现率。折现率的构成恰恰是无风险利率加上风险溢价。一项资产的风险越高（标准差越大），投资者要求的风险溢价就越高，从而导致一个更高的折现率。用这个更高的折现率去折现未来的现金流，得到的现值就越低。这就完美地将价值与风险联系起来：风险定义了价值。<br>
-
-<br><br>这些是金融理论得以施展的具体场所和工具。<br>
-<br>金融市场：
-
-<br>资本市场 vs. 货币市场：主要按期限划分。资本市场交易长期（一年以上）工具如股票和债券 ； &nbsp;
-  货币市场交易短期（一年以内）工具，流动性高、风险低 。 &nbsp;<br>
-
-<br>一级市场 vs. 二级市场：主要按功能划分。一级市场是“发行”市场（如IPO），公司在这里筹钱 ； &nbsp;
-  二级市场是“交易”市场，投资者之间买卖已发行的证券，提供流动性 。 &nbsp;<br>
-
-
-
-<br>基础金融工具：
-
-<br>股票 (Stocks/Equities)：代表对公司的所有权 。回报不固定（股息和资本利得），风险较高 。 &nbsp;<br>
-
-<br>债券 (Bonds/Debt)：代表对公司的债权 。回报通常是固定的利息，风险相对较低 。 &nbsp;<br>
-
-
-
-<br>金融衍生品 (Derivatives)：
-
-<br>定义：其价值衍生自股票、债券等基础资产的金融合约 。 &nbsp;<br>
-
-<br>核心功能：对冲 (Hedging)（转移不想要的风险）和投机 (Speculation)（承担风险以博取高收益）。<br>
-
-<br>杠杆 (Leverage)：衍生品最显著的特征，能用少量资金（保证金）控制价值巨大的资产，从而放大收益和风险 。 &nbsp;<br>
-
-<br>四大基本类型：远期、期货、期权、互换 。期货是标准化的远期；期权是“权利”而非“义务”的合约。 &nbsp;<br>
-
-
-
-<br>连接点：金融市场为股票、债券和衍生品等工具提供了交易平台。衍生品的出现是为了更精细化地管理基础工具（股票、债券）所带来的风险。<br>
-
-<br><br>这些是20世纪的诺奖级理论，它们试图为“风险”给出一个精确的数学定价。<br>
-<br>现代投资组合理论 (Modern Portfolio Theory, MPT)：
-
-<br>核心思想：不要把所有鸡蛋放在一个篮子里。它首次用数学语言阐明了分散化 (Diversification) 的力量 。<br>
-
-<br>系统性风险 vs. 非系统性风险：MPT指出，分散化只能消除与特定公司相关的非系统性风险，而无法消除整个市场固有的系统性风险（也称市场风险）。 &nbsp;<br>
-
-<br>有效前沿 (Efficient Frontier)：在给定的风险水平下，能提供最高回报的投资组合的集合 。理性投资者只应选择这条“前沿”上的组合。<br>
-
-
-
-<br>资本资产定价模型 (Capital Asset Pricing Model, CAPM)：
-
-<br>核心思想：在有效分散的投资组合中，唯一值得被补偿的风险就是系统性风险。<br>
-
-<br>贝塔系数 (Beta, β)：衡量单一资产相对于整个市场（系统性风险）的波动性 。Beta为1，代表与市场同涨同跌；大于1，则波动比市场更大。<br>
-
-<br>证券市场线 (SML)：CAPM的图形化表示，描绘了任何资产的期望回报率与其Beta值之间的线性关系 。<br>
-
-
-
-<br>有效市场假说 (Efficient Market Hypothesis, EMH)：
-
-<br>核心思想：市场价格已经反映了所有可得信息，因此持续“战胜市场”是不可能的 。它分为 &nbsp;
-  弱式、半强式和强式三种形式，分别对应历史信息、公开信息和所有信息 。 &nbsp;<br>
-
-
-
-<br>法马-佛伦奇三因子模型 (Fama-French Three-Factor Model)：
-
-<br>核心思想：对CAPM的修正。它认为，除了市场风险（Beta）外，还有两个因素也能解释股票回报。<br>
-
-<br>SMB (Small Minus Big)：规模因子，小公司股票回报通常高于大公司 。<br>
-
-<br>HML (High Minus Low)：价值因子，高账面市值比（价值股）的公司回报通常高于低账面市值比（成长股）的公司 。<br>
-
-
-
-<br>连接点：MPT奠定了分散化和风险度量的基础。CAPM在此之上，提出了第一个正式的风险定价模型，认为只有系统性风险（Beta）才应获得回报。EMH则像一个“裁判”，讨论这些模型是否真的有效。当人们发现CAPM无法解释所有现象时，法马和佛伦奇提出了三因子模型，加入了规模和价值这两个新的“系统性风险”维度，从而更好地解释了现实世界的股票回报 。<br>
-
-<br><br>这里是数学与金融深度融合的领域，用于为复杂产品定价。<br>
-<br>公司估值：
-
-<br>折现现金流 (DCF)：一种绝对估值法，通过预测公司未来的现金流并将其折现回现值来为公司估值 。这是第一层“货币时间价值”最直接、最综合的应用。<br>
-
-<br>加权平均资本成本 (WACC)：在DCF分析中，专门用于为公司现金流进行折现的折现率 。它综合了公司股权融资和债务融资的成本。 &nbsp;<br>
-
-
-
-<br>期权定价：
-
-<br>随机微积分与伊藤引理 (Ito's Lemma)：这是为期权等路径依赖的衍生品定价所需的数学“引擎”。由于股价是随机波动的，普通微积分失效，伊藤引理提供了一种处理随机过程函数微分的方法 。 &nbsp;<br>
-
-<br>布莱克-舒尔斯-默顿 (BSM) 模型：利用伊藤引理推导出的、为欧式期权定价的里程碑式公式 。<br>
-
-<br>隐含波动率与波动率微笑 (Volatility Smile)：隐含波动率是从期权的市场价格反推进BSM模型得到的波动率，它反映了市场对未来的预期 。当不同执行价的期权隐含波动率不同，并呈现出“微笑”形状时，就称为波动率微笑 ，这揭示了真实市场与BSM模型理想假设之间的偏差。 &nbsp;<br>
-
-
-
-<br>连接点：DCF是TVM在企业层面的应用，而WACC是其专用的折现率。当定价对象从相对确定的现金流转向高度不确定的期权时，我们需要更高级的数学工具。随机微积分为此提供了语言，伊藤引理是关键的语法规则，BSM模型则是用这套语言写出的著名“文章”。而波动率微笑等现象，则是对这篇文章的“现实检验”，并催生了更复杂模型的研究。<br>
-
-<br><br>这是当前金融研究最活跃的交叉领域。<br>
-<br>自动化交易：
-
-<br>算法交易与高频交易 (HFT)：利用计算机程序自动执行交易策略 。HFT是其中速度最快的一种。 &nbsp;<br>
-
-<br>统计套利 (StatArb)：算法交易的一种策略，利用统计方法寻找相关资产间的暂时性定价偏差并从中获利，是均值回归 (Mean Reversion)思想的典型应用 。<br>
-
-
-
-<br>金融机器学习：
-
-<br>监督学习 vs. 无监督学习：是机器学习的两大范式。监督学习用带标签的数据进行预测（如预测股价涨跌） ； &nbsp;
-  无监督学习在无标签数据中发现结构（如客户聚类）。 &nbsp;<br>
-
-<br>深度学习 (Deep Learning)：一类更强大的机器学习模型。
-
-<br>长短期记忆网络 (LSTM)：一种特别擅长处理时间序列数据（如股价历史）的深度学习模型，能捕捉长期依赖关系 。<br>
-
-
-
-<br>自然语言处理 (NLP)：让机器理解文本的技术。在金融中，常用于情绪分析 (Sentiment Analysis)，即从新闻、社交媒体中提取市场情绪，作为预测模型的输入信号 。 &nbsp;<br>
-
-
-
-<br>连接点：算法交易是金融策略的自动化执行。机器学习，特别是深度学习，则为发现和构建这些策略提供了前所未有的强大工具。例如，一个LSTM模型可以通过学习历史价格数据来预测未来走势，而NLP提取的情绪可以作为这个模型的一个额外输入特征，从而提高预测的准确性。这代表了从基于理论的模型（如CAPM）向基于数据的模型范式的转变。
-<br>
-]]></description><link>知识/fin/ow/简单逻辑路线.html</link><guid isPermaLink="false">知识/fin/ow/简单逻辑路线.md</guid><pubDate>Mon, 07 Jul 2025 02:07:54 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
- <br>test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test<br>
-test]]></description><link>知识/index.html</link><guid isPermaLink="false">知识/index.md</guid><pubDate>Wed, 16 Jul 2025 04:40:39 GMT</pubDate></item></channel></rss>
+<br><a data-href="贝恩-招商报告.pdf" href="文件/2025-07广发/_资源/贝恩-招商报告.pdf" class="internal-link" target="_self" rel="noopener nofollow">贝恩-招商报告.pdf</a><a href="about:blank#fnref-1-2a8ca1828c5a18d0" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+<br>备注：结构化衍生品交易（如包含看跌期权的雪球结构交易凭证），新兴市场债券（巴西、俄罗斯、土耳其等新兴市场企业所发行的债券），公私募 MoM（Manager of Manager，指管理人的管理人基金模式，由 MOM 基金管理人通过长期跟踪、研究基金经理投资过程，以投资子账户委托形式让 他们负责投资管理的一种投资模式 )，公私募 FoF（Fund of Funds，指基金中的基金，广义上说是指通过多类资产配置，投资于不同市场和不同策略的 组合基金），ESG 资产（指符合 ESG 评价体系的资产类别，ESG 评价体系是衡量企业和组织可持续发展绩效的评价体系，可作为企业长期价值的评判 依据之一，包括：环境 Environment、社会 Social、治理 Governance）<a href="about:blank#fnref-2-2a8ca1828c5a18d0" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a><a href="about:blank#fnref-2-1-2a8ca1828c5a18d0" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+<br><a data-tooltip-position="top" aria-label="https://xueqiu.com/4579887327/224234779" rel="noopener nofollow" class="external-link" href="https://xueqiu.com/4579887327/224234779" target="_blank">【华泰资产配置】从KKR看海外另类投资盈利模式&nbsp;报告核心观点随着全球科技变革接续和高净值群体扩容，另类投资延续规模扩张之势，北美市场占比较高，私募股权、私募债与基础设施...&nbsp;-&nbsp;雪球</a><a href="about:blank#fnref-3-2a8ca1828c5a18d0" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+]]></description><link>文件/2025-07广发/答辩2.html</link><guid isPermaLink="false">文件/2025-07广发/答辩2.md</guid><pubDate>Sun, 20 Jul 2025 03:08:19 GMT</pubDate><enclosure url="文件/2025-07广发/_资源/pasted-image-20250719214050.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;文件/2025-07广发/_资源/pasted-image-20250719214050.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
